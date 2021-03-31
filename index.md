@@ -16,8 +16,7 @@ In this manual, we will demonstrate using the latest version of OBS Studio code 
 
 ## By the end of this guide, you will ##
 
-Download and setup OBS Studio
-
+* Download and setup OBS Studio
 * Stream a game live using Twitch or Youtube account
 * Record a video and upload them
 * Learn how to use studio mode 
