@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Configuration
+title: Download and Set up
 nav_order: 2
 ---
 
