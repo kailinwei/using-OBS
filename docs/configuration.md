@@ -4,195 +4,89 @@ title: Download and Set up
 nav_order: 2
 ---
 
-# Configuration
-{: .no_toc }
+# Downloading and Set up #
 
+## Downloading ##
 
-Just the Docs has some specific configuration parameters that can be defined in your Jekyll site's _config.yml file.
-{: .fs-6 .fw-300 }
+We will demonstrate how to download the OBS Studio website from the beginning and explain the settings you will want to do along the downloading process.
 
-## Table of contents
-{: .no_toc .text-delta }
+### Task 1.1 Downloading ###
 
-1. TOC
-{:toc}
+1) Go to [OBS Studio website](https://obsproject.com/).  
+_INSERT IMAGE 1.1_
 
----
+2) Select **macOS 10.13** , this will start downloading OBS software on your laptop. The downloading file will appears at the bottom part of your browser.  
+_INSERT IMAGE1.2_
 
+3) Click on the file when download is finished, to opening the downloaded software files. A small window will pop up to show the verification.  When the verification process is done, a small window will show up.
+_INSERT IMAGE 1.3_
 
-View this site's [_config.yml](https://github.com/pmarsceill/just-the-docs/tree/master/_config.yml) file as an example.
+4) Select the **OBS.app** icon and drag it to the **Applications** icon. This step will help you move the downloaded files from **Download** folder to **Application** folder.  
+_INSET IMAGE 1.4_  
+_INSERT IMAGE 1.5_
 
+5) Go to your application folder and select the **OBS.app** to open the software. Since we just downloaded this app, we need some additional steps to set it up. These steps will not appears after the first time use.  
 
-## Site logo
+     1) Select "**Open**" when  window pop up to confirm if we want to open this newly downloaded app.  
+     _INSERT IMAGE 1.6_  
+     Then,a new window appears to ask you granting OBS access in Security & Privacy.
 
-```yaml
-# Set a path/url to a logo that will be displayed instead of the title
-logo: "/assets/images/just-the-docs.png"
-```
+     2) Select "**Open System Preference**"
+     _INSERT IMAGE 1.7_
 
-## Search
+     3) Select "**OK**"for giving OBS access to microphone.
+     _INSERT IMAGE 1.8_
 
-```yaml
-# Enable or disable the site search
-# Supports true (default) or false
-search_enabled: true
+Now, we finished giving OBS our access to necessary functions. We are ready to do some initial set up with the OBS software.
 
-search:
-  # Split pages into sections that can be searched individually
-  # Supports 1 - 6, default: 2
-  heading_level: 2
-  # Maximum amount of previews per search result
-  # Default: 3
-  previews: 3
-  # Maximum amount of words to display before a matched word in the preview
-  # Default: 5
-  preview_words_before: 5
-  # Maximum amount of words to display after a matched word in the preview
-  # Default: 10
-  preview_words_after: 10
-  # Set the search token separator
-  # Default: /[\s\-/]+/
-  # Example: enable support for hyphenated search words
-  tokenizer_separator: /[\s/]+/
-  # Display the relative url in search results
-  # Supports true (default) or false
-  rel_url: true
-  # Enable or disable the search button that appears in the bottom right corner of every page
-  # Supports true or false (default)
-  button: false
-```
+### Task 1.2 Initial OBS Set up ###
 
-## Aux links
+The following steps only appear for the first time downloading. We will guide you through about how to make the initial selections for the settings. If you want to change the settings later, you can always go to setting selection in the app and make changes.
 
-```yaml
-# Aux links for the upper right navigation
-aux_links:
-  "Just the Docs on GitHub":
-    - "//github.com/pmarsceill/just-the-docs"
+When you open the OBS Studio software first time after finishing downloading, a window will appear to ask you to choose the program you would like to use. For the purpose of showing both of the streaming and recording functions, we will choose the first option. You can choose the second one if you only want to record. Choose the third option if you only use the virtual camera. You can always change the setting in **Tools** later if you would like to switch to a different program.  
 
-# Makes Aux links open in a new tab. Default is false
-aux_links_new_tab: false
-```
+1) Click the first option, then click **Next**.
+_image1.2.1_  
 
-## Heading anchor links
+Then, a window appears to ask you choosing the Base(Canvas) Resolution and the FPS.
 
-```yaml
-# Heading anchor links appear on hover over h1-h6 tags in page content
-# allowing users to deep link to a particular heading on a page.
-#
-# Supports true (default) or false
-heading_anchors: true
-```
+* Base(Canvas) Resolution means the resolution of the space you use to layout your overlays in OBS. In general, the bigger the number, the better the video quality. However, when you are using streaming function, the high resolution may cause lagging problems. It is recommended to use a **16:9** aspect ratios. Hence, the resolutions of  **1920 x 1080** and **1280 x 720** are recommended.  
 
-## Footer content
+* FPS stands for frame per second, which means how fast a image is shown. 60FPS looks smooth when streaming, but it require extra work from your GPU or CPU to keep up. If you have a solid stream PC and the upload speed to match, 60FPS is recommended, because it look better. If not, 30 FPS is a reliable choices as it provide a clean video.
 
-```yaml
-# Footer content
-# appears at the bottom of every page's main content
-# Note: The footer_content option is deprecated and will be removed in a future major release. Please use `_includes/footer_custom.html` for more robust
-markup / liquid-based content.
-footer_content: "Copyright &copy; 2017-2020 Patrick Marsceill. Distributed by an <a href=\"https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt\">MIT license.</a>"
+In this instruction, we set Base(Canvas) Resolution or 1920 x 1080, and FPS for "Either 60 or 30 but prefer 60 when possible" which is more flexible choice.
 
-# Footer last edited timestamp
-last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
-last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
+2) Click **Next** after you finishing choose the setting.  
+_image1.2.2_
 
-# Footer "Edit this page on GitHub" link text
-gh_edit_link: true # show or hide edit this page link
-gh_edit_link_text: "Edit this page on GitHub."
-gh_edit_repository: "https://github.com/pmarsceill/just-the-docs" # the github URL for your repo
-gh_edit_branch: "master" # the branch that your docs is served from
-# gh_edit_source: docs # the source that your files originate from
-gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
-```
+After that, a window pops up to set up your streaming information. You can choose your streaming services, server and the video bitrate.
 
-_note: `footer_content` is deprecated, but still supported. For a better experience we have moved this into an include called `_includes/footer_custom.html` which will allow for robust markup / liquid-based content._
+Video bitrate means how many bits of data you are sending and the speed they are being sent. It should be determined by video resolution, video frame rate, upload bandwidth available and more. You can use this table to determine the bitrate to use:
+|      |**Video Bitrate**  |**Audio Bitrate**  |**Resolution**  |
+|:----:|:-----------------:|:-----------------:|:--------------:|
+|**1080P**|6,000Kbps|128Kbps|1920×1080|
+|**720P**|3,000Kbps	|128Kbps|1280×720|
+|**480P**|1,000Kbps|128Kbps|854×480|
+|**360P**|600Kbps|96Kbps|640×360|
+|**240P**|300Kbps|96Kbps|426×240|  
 
-- the "page last modified" data will only display if a page has a key called `last_modified_date`, formatted in some readable date format
-- `last_edit_time_format` uses Ruby's DateTime formatter; see examples and more information [at this link.](https://apidock.com/ruby/DateTime/strftime)
-- `gh_edit_repository` is the URL of the project's GitHub repository
-- `gh_edit_branch` is the branch that the docs site is served from; defaults to `master`
-- `gh_edit_source` is the source directory that your project files are stored in (should be the same as [site.source](https://jekyllrb.com/docs/configuration/options/))
-- `gh_edit_view_mode` is `"tree"` by default, which brings the user to the github page; switch to `"edit"` to bring the user directly into editing mode
+table found at 8888
 
-## Color scheme
+3.Click on **Service**, you will see many services options. Choose the one you would like to use. For this manuel, we will choose **Twitch** as an example.  
 
-```yaml
-# Color scheme supports "light" (default) and "dark"
-color_scheme: dark
-```
-<button class="btn js-toggle-dark-mode">Preview dark color scheme</button>
+ 4 Enter your Stream Key of your selected service. Select the recommended default server. 
+ 
+ 5 Select your server. We will use Auto (Recommend) in this instruction.
+ 
+ 6 Select your video bitrate and then choose **Next**.
+ _image1.2.3_  
 
-<script>
-const toggleDarkMode = document.querySelector('.js-toggle-dark-mode');
+A window will pops up showing the configuration process. 
 
-jtd.addEvent(toggleDarkMode, 'click', function(){
-  if (jtd.getTheme() === 'dark') {
-    jtd.setTheme('light');
-    toggleDarkMode.textContent = 'Preview dark color scheme';
-  } else {
-    jtd.setTheme('dark');
-    toggleDarkMode.textContent = 'Return to the light side';
-  }
-});
-</script>
+ 7) Choose **Apply Settings** when the configuration process finished
+ _image1.2.4_
 
-See [Customization]({{ site.baseurl }}{% link docs/customization.md %}) for more information.
+Then, the screen shows up and you are ready to use OBS Studio functions!
+_image1,2,5_
 
-## Google Analytics
-
-```yaml
-# Google Analytics Tracking (optional)
-# e.g, UA-1234567-89
-ga_tracking: UA-5555555-55
-ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true by default)
-```
-
-## Document collections
-
-By default, the navigation and search include normal [pages](https://jekyllrb.com/docs/pages/).
-Instead, you can also use [Jekyll collections](https://jekyllrb.com/docs/collections/) which group documents semantically together.
-
-For example, put all your documentation files in the `_docs` folder and create the `docs` collection:
-```yaml
-# Define Jekyll collections
-collections:
-  # Define a collection named "docs", its documents reside in the "_docs" directory
-  docs:
-    permalink: "/:collection/:path/"
-    output: true
-
-just_the_docs:
-  # Define which collections are used in just-the-docs
-  collections:
-    # Reference the "docs" collection
-    docs:
-      # Give the collection a name
-      name: Documentation
-      # Exclude the collection from the navigation
-      # Supports true or false (default)
-      nav_exclude: false
-      # Exclude the collection from the search
-      # Supports true or false (default)
-      search_exclude: false
-```
-
-You can reference multiple collections.
-This creates categories in the navigation with the configured names.
-```yaml
-collections:
-  docs:
-    permalink: "/:collection/:path/"
-    output: true
-  tutorials:
-    permalink: "/:collection/:path/"
-    output: true
-
-just_the_docs:
-  collections:
-    docs:
-      name: Documentation
-    tutorials:
-      name: Tutorials
-```
-
+Please refer to the next chapter for how to record and stream your video!
