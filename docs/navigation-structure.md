@@ -1,259 +1,144 @@
 ---
 layout: default
-title: Navigation Structure
-nav_order: 5
+title: Streaming
+nav_order: 3
 ---
+ 
+# Streaming #
 
-# Navigation Structure
-{: .no_toc }
+## Streaming ##
 
-<details open markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-  {: .text-delta }
-1. TOC
-{:toc}
-</details>
+Now that you finished the basic setup of OBS studio, you can start to stream your screen using the streaming website using Twitch or Youtube. The OBS Studio has provided various plugins and more functions than a basic streaming site. We will show you how to connect OBS Studio with the streaming site in two versions with useful plugins.
 
----
+### Task 2.1 Connect To Streaming Website ###
 
-## Main navigation
+1) Click the **Settings** button which shows all setting options on the bottom of right.
+![_INSERT IMAGE 2.1.1_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task2.1.1.png)    
 
-The main navigation for your Just the Docs site is on the left side of the page at large screens and on the top (behind a tap) on small screens. The main navigation can be structured to accommodate a multi-level menu system (pages with children and grandchildren).
+2) Click the **Stream** button on the left side. 
 
-By default, all pages will appear as top level pages in the main nav unless a parent page is defined (see [Pages with Children](#pages-with-children)).
+    In this window, you can choose a streaming service that you want to use. We will use Twitch and YouTube in this instruction.
 
----
+![_INSERT IMAGE2.1.2_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task2.1.2.png)
 
-## Ordering pages
+3) Select streaming service you want to broadcast. (Twitch or YouTube - RTMP)
 
-To specify a page order, you can use the `nav_order` parameter in your pages' YAML front matter.
+![_INSERT IMAGE2.1.3_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task2.1.3.png)
 
-#### Example
-{: .no_toc }
+* **Twitch**
 
-```yaml
----
-layout: default
-title: Customization
-nav_order: 4
----
-```
+    
+    You should have an account to use the streaming service.
 
-The parameter values determine the order of the top-level pages, and of child pages with the same parent. You can reuse the same parameter values (e.g., integers starting from 1) for the child pages of different parents.
 
-The parameter values can be numbers (integers, floats) and/or strings. When you omit `nav_order` parameters, they default to the titles of the pages, which are ordered alphabetically. Pages with numerical `nav_order` parameters always come before those with strings or default `nav_order` parameters. If you want to make the page order independent of the page titles, you can set explicit `nav_order` parameters on all pages.
+![_INSERT IMAGE2.1.4_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task2.1.4.png)
 
-By default, all Capital letters come before all lowercase letters; you can add `nav_sort: case_insensitive` in the configuration file to ignore the case. Enclosing strings in quotation marks is optional.
+2.3.2
+* **Youtube**
 
-> *Note for users of previous versions:* `nav_sort: case_insensitive` previously affected the ordering of numerical `nav_order` parameters: e.g., `10` came before `2`. Also, all pages with explicit `nav_order` parameters previously came before all pages with default parameters. Both were potentially confusing, and they have now been eliminated. 
+    You should have an account and verify your phone number, If you did not when you make your account.
+    
+    :warning: Note: If you get a verification with your number at this step, You can use streaming service after 24 hours following the YouTube streaming rule.
 
----
+_INSERT IMAGE2.1.5_
 
-## Excluding pages
+4) Click the **Get Stream Key** to get your stream key that connects to the streaming site and OBS studio. 
+When you click the **Get Stream Key** button, you will be directed to the streaming website. 
 
-For specific pages that you do not wish to include in the main navigation, e.g. a 404 page or a landing page, use the `nav_exclude: true` parameter in the YAML front matter for that page.
+![_INSERT IMAGE2.1.6_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task2.1.6.png)
 
-#### Example
-{: .no_toc }
+5) Copy the Primary stream key and paste it on the Stream Key section on OBS.
 
-```yaml
----
-layout: default
-title: 404
-nav_exclude: true
----
-```
+    Note. If you don’t go to this web page, you should login first and click it again.
 
-The `nav_exclude` parameter does not affect the [auto-generating list of child pages](#auto-generating-table-of-contents), which you can use to access pages excluded from the main navigation.
 
-Pages with no `title` are automatically excluded from the navigation. 
+![_INSERT IMAGE2.1.7_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task2.1.7.png)
 
----
+Now, we finished make connection between OBS studio and streaming website. You can start streaming with **Start Streaming** button on the bottom right.
 
-## Pages with children
 
-Sometimes you will want to create a page with many children (a section). First, it is recommended that you keep pages that are related in a directory together... For example, in these docs, we keep all of the written documentation in the `./docs` directory and each of the sections in subdirectories like `./docs/ui-components` and `./docs/utilities`. This gives us an organization like:
+### Task 2.2 Set Up Your Display Screen ###
 
-```
-+-- ..
-|-- (Jekyll files)
-|
-|-- docs
-|   |-- ui-components
-|   |   |-- index.md  (parent page)
-|   |   |-- buttons.md
-|   |   |-- code.md
-|   |   |-- labels.md
-|   |   |-- tables.md
-|   |   +-- typography.md
-|   |
-|   |-- utilities
-|   |   |-- index.md      (parent page)
-|   |   |-- color.md
-|   |   |-- layout.md
-|   |   |-- responsive-modifiers.md
-|   |   +-- typography.md
-|   |
-|   |-- (other md files, pages with no children)
-|   +-- ..
-|
-|-- (Jekyll files)
-+-- ..
-```
-
-On the parent pages, add this YAML front matter parameter:
--  `has_children: true` (tells us that this is a parent page)
-
-#### Example
-{: .no_toc }
-
-```yaml
----
-layout: default
-title: UI Components
-nav_order: 2
-has_children: true
----
-```
-
-Here we're setting up the UI Components landing page that is available at `/docs/ui-components`, which has children and is ordered second in the main nav.
-
-### Child pages
-{: .text-gamma }
-
-On child pages, simply set the `parent:` YAML front matter to whatever the parent's page title is and set a nav order (this number is now scoped within the section).
-
-#### Example
-{: .no_toc }
-
-```yaml
----
-layout: default
-title: Buttons
-parent: UI Components
-nav_order: 2
----
-```
-
-The Buttons page appears as a child of UI Components and appears second in the UI Components section.
-
-### Auto-generating Table of Contents
-
-By default, all pages with children will automatically append a Table of Contents which lists the child pages after the parent page's content. To disable this auto Table of Contents, set `has_toc: false` in the parent page's YAML front matter.
-
-#### Example
-{: .no_toc }
+The following steps only appear for connection to streaming website. There is no streaming source on the screen yet, so if you clicked the Start Streaming button in the previous step, you will be broadcasting only a black screen.
 
-```yaml
----
-layout: default
-title: UI Components
-nav_order: 2
-has_children: true
-has_toc: false
----
-```
-
-### Children with children
-{: .text-gamma }
-
-Child pages can also have children (grandchildren). This is achieved by using a similar pattern on the child and grandchild pages.
-
-1. Add the `has_children` attribute to the child
-1. Add the `parent` and `grand_parent` attribute to the grandchild
-
-#### Example
-{: .no_toc }
-
-```yaml
----
-layout: default
-title: Buttons
-parent: UI Components
-nav_order: 2
-has_children: true
----
-```
-
-```yaml
----
-layout: default
-title: Buttons Child Page
-parent: Buttons
-grand_parent: UI Components
-nav_order: 1
----
-```
-
-This would create the following navigation structure:
-
-```
-+-- ..
-|
-|-- UI Components
-|   |-- ..
-|   |
-|   |-- Buttons
-|   |   |-- Button Child Page
-|   |
-|   |-- ..
-|
-+-- ..
-```
-
----
-
-## Auxiliary Links
-
-To add auxiliary links to your site (in the upper right on all pages), add it to the `aux_links` [configuration option]({{ site.baseurl }}{% link docs/configuration.md %}#aux-links) in your site's `_config.yml` file.
-
-#### Example
-{: .no_toc }
-
-```yaml
-# Aux links for the upper right navigation
-aux_links:
-  "Just the Docs on GitHub":
-    - "//github.com/pmarsceill/just-the-docs"
-```
-
----
-
-## In-page navigation with Table of Contents
-
-To generate a Table of Contents on your docs pages, you can use the `{:toc}` method from Kramdown, immediately after an `<ol>` in Markdown. This will automatically generate an ordered list of anchor links to various sections of the page based on headings and heading levels. There may be occasions where you're using a heading and you don't want it to show up in the TOC, so to skip a particular heading use the `{: .no_toc }` CSS class.
-
-#### Example
-{: .no_toc }
-
-```markdown
-# Navigation Structure
-{: .no_toc }
-
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-```
-
-This example skips the page name heading (`#`) from the TOC, as well as the heading for the Table of Contents itself (`##`) because it is redundant, followed by the table of contents itself. To get an unordered list, replace  `1. TOC` above by `- TOC`.
-
-### Collapsible Table of Contents
-
-The Table of Contents can be made collapsible using the `<details>` and `<summary>` elements , as in the following example. The attribute `open` (expands the Table of Contents by default) and the styling with `{: .text-delta }` are optional.
-
-```markdown
-<details open markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-  {: .text-delta }
-1. TOC
-{:toc}
-</details>
-```
-
-The result is shown at [the top of this page](#navigation-structure) (`{:toc}` can be used only once on each page).
+Now, We will guide you through about how to add display source and web camera on your streaming screen. 
+
+
+1) Go back to the main screen and click the **Up** button on the Sources tap.
+
+![_INSERT IMAGE2.2.1_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task2.2.1.png)
+
+2) Click the **Display Capture** Button to add a screen you want to display first. 
+
+![_INSERT IMAGE2.2.2_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task2.2.2.png)
+
+3) Choose a display option which you want to stream and click OK.
+
+![_INSERT IMAGE2.2.3_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task2.2.3.png)
+
+    :warning: Note: If you use a single monitor, you don’t need to choose the display option. 
+
+4) Click your right mouse button on the left screen. 
+
+You can transform the display with several options. These options allow the user to modify your screen (????)
+
+
+![_INSERT IMAGE2.2.4_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task2.2.4.png)
+
+
+
+5) Click **Video Capture Device** to add your webcam. 
+
+
+![_INSERT IMAGE2.2.5_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task2.2.5.png)
+
+    You can change the name if you want.
+
+6) Select the camera device that you want to use on the Device tab and click OK.
+
+
+![_INSERT IMAGE2.2.6_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task2.2.6.png)
+
+7) Resize the size of the second screen and move the location if you want.
+
+![_INSERT IMAGE2.2.7_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task2.2.7png.png)
+
+    :warning: Note: We blurred our web-camera screen by using photo edit program on purpose, you will get the clear screen.
+
+If you want to add more source on your screen, you can do this later anytime with source tap.
+You can design your screen with any source you want to apply on source tab.
+The short explanation about each function is in the below table. (Table.)
+
+|      |**Explanation**  |
+|:----:|:-----------------:|
+|**Audio Input Capture**|Add audio sounds with a device that attaches to a computer such as a microphone |
+|**Audio Output Capture**|Add audio sounds with a device that attaches to a computer such as a speaker|
+|**Browser**|Show a webpage from your browser tab |
+|**Color Source**|Add a color source|
+|**Display Capture**| Show everything that is on our computer screen |  
+|**Image**| Show an image file in your computer|
+|**Media Source**|Steam a Media file such as video|    
+|**Scene**| Add another scene on your activated scene|  
+|**Syphon Client**||  
+|**Text**| Write a text with font style, color and size on the screen|  
+|**Video Capture Device**|Show a video camera screen with a device that attaches to a computer|  
+|**Window Capture**|Show a certain application display on a computer such as PhotoShop|  
+
+</br>
+
+table found at 8888
+
+
+8) Click the **Transition** button after you set up your streaming screen.
+
+    The **left screen** is the screen you can edit and the **right screen** is the one that will show on streaming. 
+
+![_INSERT IMAGE2.2.8_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task2.2.8.png)
+
+    WARNING: You should click the transition button after you change on the left screen.
+
+9) Click the **Start Streaming** button to start your streaming.
+
+![_INSERT IMAGE2.2.9_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task2.2.9.png)
+
+You can check you are on live in the streaming site.
