@@ -8,7 +8,7 @@ nav_order: 10
 
 Studio Mode is a very useful tool for streaming. It allows users change the scenes in the background without being seen by your viewers.
 
-**1.**Click the **Studio Mode** button on the right corner of your program window. 
+**1.** Click the **Studio Mode** button on the right corner of your program window. 
 _imag1.2.5_
 
 Two panels will be presenting on the screen. The left panel is your **preview** scene and the right panel present the scene that is showing on **live scene**.
