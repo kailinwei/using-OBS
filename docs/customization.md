@@ -8,4 +8,9 @@ nav_order: 7
 
 **FPS**: FPS stands for frame per second, it is a measure of frame rate, which means how fast a image is shown. It is a common specification used in video capture and playback and is also used to measure video game performance.
 
-**Main Screen**: In this instruction, main screen refer to the screen you see when you open the OBS studio. 
+**Main Screen**: In this instruction, main screen refer to the screen you see when you open the OBS studio.
+
+**CW** : Clock Wise
+
+**CCW** : Counter ClockWise
+
