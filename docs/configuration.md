@@ -22,20 +22,20 @@ _INSERT IMAGE1.2_
 _INSERT IMAGE 1.3_
 
 4. Select the **OBS.app** icon and drag it to the **Applications** icon. This step will help you move the downloaded files from **Download** folder to **Application** folder.  
-_INSET IMAGE 1.4_  
+![_INSET IMAGE 1.4_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task1.4.1.png?raw=true "Drag to application")
 _INSERT IMAGE 1.5_
 
 5. Go to your application folder and select the **OBS.app** to open the software. Since we just downloaded this app, we need some additional steps to set it up. These steps will not appears after the first time use.  
 
 6. Select "**Open**" when  window pop up to confirm if we want to open this newly downloaded app.  
-_INSERT IMAGE 1.6_  
+![_INSERT IMAGE 1.6_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task1.6.png?raw=true "Select Open")
 Then,a new window appears to ask you granting OBS access in Security & Privacy.
 
 7. Select "**Open System Preference**"
-     _INSERT IMAGE 1.7_
+  ![_INSERT IMAGE 1.7_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task1.7.png?raw=true "Select Open system preference")
 
 8. Select "**OK**"for giving OBS access to microphone.
-     _INSERT IMAGE 1.8_
+   ![ _INSERT IMAGE 1.8_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task1.8.png?raw=true "Select Ok to obtain microphone permission")
 
 Now, we finished giving OBS our access to necessary functions. We are ready to do some initial set up with the OBS software.
 
