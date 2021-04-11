@@ -1,127 +1,100 @@
 ---
 layout: default
-title: Search
-nav_order: 7
+title: Recording
+nav_order: 4
 ---
 
-# Search
-{: .no_toc }
-
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
----
-
-Just the Docs uses [lunr.js](http://lunrjs.com) to add a client-side search interface powered by a JSON index that Jekyll generates.
-All search results are shown in an auto-complete style interface (there is no search results page).
-By default, all generated HTML pages are indexed using the following data points:
-
-- Page title
-- Page content
-- Page URL
-
-## Enable search in configuration
-
-In your site's `_config.yml`, enable search:
-
-```yaml
-# Enable or disable the site search
-# Supports true (default) or false
-search_enabled: true
-```
-
-### Search granularity
-
-Pages are split into sections that can be searched individually.
-The sections are defined by the headings on the page.
-Each section is displayed in a separate search result.
-
-```yaml
-# Split pages into sections that can be searched individually
-# Supports 1 - 6, default: 2
-search.heading_level: 2
-```
-
-### Search previews
-
-A search result can contain previews that show where the search words are found in the specific section.
-
-```yaml
-# Maximum amount of previews per search result
-# Default: 3
-search.previews: 3
-
-# Maximum amount of words to display before a matched word in the preview
-# Default: 5
-search.preview_words_before: 5
-
-# Maximum amount of words to display after a matched word in the preview
-# Default: 10
-search.preview_words_after: 10
-```
-
-### Search tokenizer
-
-The default is for hyphens to separate tokens in search terms:
-`gem-based` is equivalent to `gem based`, matching either word.
-To allow search for hyphenated words:
-
-```yaml
-# Set the search token separator
-# Default: /[\s\-/]+/
-# Example: enable support for hyphenated search words
-search.tokenizer_separator: /[\s/]+/
-```
-
-### Display URL in search results 
-
-```yaml
-# Display the relative url in search results
-# Supports true (default) or false
-search.rel_url: false
-```
-
-### Display search button
-
-The search button displays in the bottom right corner of the screen and triggers the search input when clicked.
-
-```yaml
-# Enable or disable the search button that appears in the bottom right corner of every page
-# Supports true or false (default)
-search.button: true
-```
+# Recording Screen 
 
 
-## Hiding pages from search
+### Task 3.1 Recording Set Up 
 
-Sometimes you might have a page that you don't want to be indexed for the search nor to show up in search results, e.g, a 404 page.
-To exclude a page from search, add the `search_exclude: true` parameter to the page's YAML front matter:
+1) Click [Tools] on menu bar on the top and Select "Auto-Configuration Wizard". This will open "Auto-Configuration Wizard" setting.
 
-#### Example
-{: .no_toc }
+![_INSERT IMAGE3.1.1_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task3.1.1.png?raw=true "OBS Studio Website") 
 
-```yaml
----
-layout: default
-title: Page not found
-nav_exclude: true
-search_exclude: true
----
-```
+2) Select "Optimize just for recording, I will not be streaming". This will help us to have best setting for recording in very simple way. Click [Next] after you select those settings. 
+
+![_INSERT IMAGE3.1.2_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task3.1.2.png?raw=true "OBS Studio Website") 
+
+3) "Video Settings" will open with " Base(Canvas) Resolution" and "FPS" settings. Keep these two settings same as Task 1. Click [Next] after you make sure settings are correct. 
 
 
-## Generate search index when used as a gem
+4) Test will start, this may take few seconds. After testing completed, check "Final Results" to see settings are what you want. Click [Apply Settings] to complete wizard setting. 
 
-If you use Just the Docs as a remote theme, you do not need the following steps.
+![_INSERT IMAGE3.1.4_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task3.1.4.png?raw=true "OBS Studio Website") 
 
-If you use the theme as a gem, you must initialize the search by running this `rake` command that comes with `just-the-docs`:
+### Task 3.2 Adding Sources and Adjusting Resolution
 
-```bash
-$ bundle exec just-the-docs rake search:init
-```
+1) Go back to main screen and click [+] icon under "Sources" to get a drop-down menu. This will help us to add screens, images, and webcams etc..
 
-This command creates the `assets/js/zzzz-search-data.json` file that Jekyll uses to create your search index.
-Alternatively, you can create the file manually with [this content]({{ site.github.repository_url }}/blob/master/assets/js/zzzz-search-data.json).
+Note: Give permission to OBS Studio on some of the privacy settings if they ask. 
+
+![_INSERT IMAGE3.2.1_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task3.2.1.png?raw=true "OBS Studio Website") 
+
+2) Click [Display Capture] on the drop-down menu. 
+
+![_INSERT IMAGE3.2.2_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task3.2.2.png?raw=true "OBS Studio Website") 
+
+3) We do not have any sources yet, so click [Create new] with name you selected. Click [OK] to go to next setting. 
+
+![_INSERT IMAGE3.2.3_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task3.2.3.png?raw=true "OBS Studio Website") 
+
+4) Select "0" for [Display] and "None" for [Crop] and click [OK]. In here, we stick with basic settings so we do not need to change anything. 
+
+![_INSERT IMAGE3.2.4_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task3.2.4.png?raw=true "OBS Studio Website") 
+
+5) Click [Settings] on right bottom corner and Select [Video], this will open video settings. Select your preferred number for [Base (Canvas) Resolution] and [Output (Scaled) Resolution]. Here, I selected "1440x900". Click [OK] after you are satisfied with resolution number. 
+
+![_INSERT IMAGE3.2.5_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task3.2.5.png?raw=true "OBS Studio Website") 
+
+6) Go to [System Preferences]>[Displays]>[Display] and Select [Scaled] for "Resolution". Select the same resolution as previous step, you can check resolution value under picture of Mac. 
+
+![_INSERT IMAGE3.2.6_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task3.2.6.png?raw=true "OBS Studio Website") 
+
+7) Click and Hold the left top corner of red box to adjust screen size so that it fits within black box. When you move cursor to right bottom corner, it will make the screen smaller. 
+
+![_INSERT IMAGE3.2.7_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task3.2.7.png?raw=true "OBS Studio Website") 
+
+### Task 3.3 Starting and Stopping  Recording 
+
+1) Click [Start Recording] on the right bottom corner. This will start recording the screens you selected. 
+
+![_INSERT IMAGE3.3.1_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task3.3.1.png?raw=true "OBS Studio Website") 
+
+2) Click [||] icon on right side of [Stop Recording] to pause the recordings. Click [Stop Recording] to complete the recording. 
+
+![_INSERT IMAGE3.3.2_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task3.3.2.png?raw=true "OBS Studio Website") 
+
+
+3) Click [File] on menu bar on the top and Select "Show Recordings". This will show the location of the recorded file. 
+
+![_INSERT IMAGE3.3.3_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task3.3.3.png?raw=true "OBS Studio Website") 
+
+
+4) Check your file is there. 
+
+![_INSERT IMAGE3.3.4_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task3.3.4.png?raw=true "OBS Studio Website") 
+
+
+### Task 3.4 Converting Video Format for Uploading
+
+1) Click [File] on menu bar on the top and Select "Remux Recordings". This will help us to covert default mkv file to mp4 file. The reason of this file conversion is that many editing software or  YouTube won't take mkv or flv files by default so we need to covert them to other format such as mp4. 
+
+Note: We recommend you to use either "mkv (default)" or "flv" as recording format. This is because they are crash-proof so you won't lose all recorded data even OBS crashes. 
+
+![_INSERT IMAGE3.4.1_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task3.4.1.png?raw=true "OBS Studio Website") 
+
+
+
+2) Click [...] icon under "OBS Recording".
+
+![_INSERT IMAGE3.4.2_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task3.4.2.png?raw=true "OBS Studio Website") 
+
+3) Select the mkv file you want to convert and Click [Open].
+
+![_INSERT IMAGE3.4.3_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task3.4.3.png?raw=true "OBS Studio Website") 
+
+4) Check the file name under "Target File" ends with ".mp4". Click [Remux], then OBS will convert selected file to mp4 format.
+
+![_INSERT IMAGE3.4.4_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task3.4.4.png?raw=true "OBS Studio Website") 
