@@ -6,6 +6,8 @@ nav_order: 4
 
 # Recording Screen 
 
+In this step, I will demonstrate how to set up and start recording your screens. The instruction on how to covert file format to mp4 are included as well, this will help us to upload our recordings to online video platform such as YouTube. 
+
 
 ### Task 3.1 Recording Set Up 
 
