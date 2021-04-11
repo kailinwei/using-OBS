@@ -6,6 +6,8 @@ nav_order: 6
 
 # Adding captions to video recording/live stream
 
+When you are live-streaming or uploading recorded videos to YouTube, captions/subtitles could be helpful for viewers. In this step, I demonstrate how to add live caption using [Web Captioner](https://webcaptioner.com/captioner) and how to make those captions transparent so that it matches with your background. 
+
 ### Task 5.1 Setting Web Captioner
 
 **1.** Go to [Web Captioner website](https://webcaptioner.com/captioner). Click three dots icon and Select [Sign in]. 
