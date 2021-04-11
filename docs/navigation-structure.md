@@ -125,9 +125,8 @@ The short explanation about each function is in the below table. (Table.)
 |**Video Capture Device**|Show a video camera screen with a device that attaches to a computer|  
 |**Window Capture**|Show a certain application display on a computer such as PhotoShop|  
 
-</br>
 
-table found at 8888
+If you have a trouble with **Audio Output Capture**, Please check out *[Trouble Shooting](https://kailinwei.github.io/using-OBS/docs/troubleshooting/)*.
 
 
 8) Click the **Transition** button after you set up your streaming screen.
