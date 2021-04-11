@@ -4,7 +4,7 @@ title: Glossary
 nav_order: 7
 ---
 
-#Glossary
+# Glossary
 
 **Base Canvas**: Base(Canvas) Resolution means the resolution of the space you use to layout your overlays in OBS. In general, the bigger the number, the better the video quality. However, when you are using streaming function, the high resolution may cause lagging problems.
 
