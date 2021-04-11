@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Studtio mode
-nav_order: 10
+nav_order: 5
 ---
 
 # Studio mode #
