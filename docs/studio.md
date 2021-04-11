@@ -1,7 +1,7 @@
 
 ---
 layout: default
-title: Download and Set up
+title: Studtio mode
 nav_order: 10
 ---
 
