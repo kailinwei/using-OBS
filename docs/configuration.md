@@ -23,7 +23,6 @@ We will demonstrate how to download the OBS Studio website from the beginning an
 
 **4.** Select the **OBS.app** icon and drag it to the **Applications** icon. This step will help you move the downloaded files from **Download** folder to **Application** folder.  
 ![_INSET IMAGE 1.4_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task1.4.1.png?raw=true "Drag to application")
-_INSERT IMAGE 1.5_
 
 **5.** Go to your application folder and select the **OBS.app** to open the software. Since we just downloaded this app, we need some additional steps to set it up. These steps will not appears after the first time use.  
 
