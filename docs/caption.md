@@ -84,3 +84,11 @@ nav_order: 6
 
 **7.** Check the location and appearance of caption is right. 
 
+
+# Conclusion #
+
+Once you went through this guideline, you have learnt the basic features of OBS studio. Now you can start recording, streaming, using studio mode and adding captions to the videos.
+
+With the skills learnt from this instructions, you would be able to
+explore more interesting features of OBS studio.
+
