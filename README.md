@@ -35,7 +35,7 @@ Since OBS Studio was new to our group, our group  had to learn and navigate this
 
 We would like to invite you read our guideline and welcome any feedback and questions.
 
-Best Wishes,
+Best Wishes,  
 Mai T., Hailey K., and Kailin W.
 
 
