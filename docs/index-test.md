@@ -1,180 +1,86 @@
 ---
 layout: default
 title: Markdown kitchen sink
-nav_order: 99
+nav_order: 6
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Adding captions to video recording/live stream
 
-[Link to another page](another-page).
+### Task 5.1 Setting Web Captioner
 
-There should be whitespace between paragraphs.
+**1.** Go to [Web Captioner website](https://webcaptioner.com/captioner). Click three dots icon and Select [Sign in]. 
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+![_INSERT IMAGE5.1.1_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task5.1.1.png?raw=true "OBS Studio Website") 
 
-# [](#header-1)Header 1
+**2.** Select any of sign-in option you prefer to sign in. This will help us to save the settings in our account. 
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+**3.** Click three dots icon and Select [Settings]. 
 
-## [](#header-2)Header 2
+![_INSERT IMAGE5.1.3_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task5.1.3.png?raw=true "OBS Studio Website") 
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+**4.** Select [Appearance] setting on the left side and scroll down to [Background] section. Select [RGB (27, 233, 12)] (Green) as "Background Color". Click [x] to save and close settings.
 
-### [](#header-3)Header 3
+![_INSERT IMAGE5.1.4_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task5.1.4.png?raw=true "OBS Studio Website") 
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+**5.** Click [Start Captioning], this will start recording your audio and turn it into captions. 
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+![_INSERT IMAGE5.1.5_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task5.1.5.png?raw=true "OBS Studio Website") 
 
-#### [](#header-4)Header 4 `with code not transformed`
+**6.** Click three dots icon and Select middle blue icon [New Window]. This will open a new window with only captions. 
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+![_INSERT IMAGE5.1.6_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task5.1.6.png?raw=true "OBS Studio Website") 
 
-##### [](#header-5)Header 5
+### Task 5.2 Adding Live Captions on OBS
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+**1.** Open OBS and click [+] icon under "Sources" to get a drop-down menu. 
 
-###### [](#header-6)Header 6
+![_INSERT IMAGE5.2.1_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task5.2.1.png?raw=true "OBS Studio Website") 
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+**2.** Click [Window Capture] on the drop-down menu. 
 
-### There's a horizontal rule below this.
+![_INSERT IMAGE5.2.2_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task5.2.2.png?raw=true "OBS Studio Website")
 
-* * *
+**3.** Select [Create new] and name it to create a new window capture. Click [OK] to proceed. 
 
-### Here is an unordered list:
+![_INSERT IMAGE5.2.3_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task5.2.3.png?raw=true "OBS Studio Website")
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+**4.** Click icon on right side of "Window" to get a drop-down menu.
 
-### And an ordered list:
+![_INSERT IMAGE5.2.4_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task5.2.4.png?raw=true "OBS Studio Website")
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+**5.** Select "[Google Chrome] Captions (Windowed)". This will select which window we want to display. 
 
-### And a nested list:
+![_INSERT IMAGE5.2.5_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task5.2.5.png?raw=true "OBS Studio Website")
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+**6.** Click [OK] after you make sure correct window is displayed. 
 
-### Nesting an ol in ul in an ol
+![_INSERT IMAGE5.2.6_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task5.2.6.png?raw=true "OBS Studio Website")
 
-- level 1 item (ul)
-  1. level 2 item (ol)
-  1. level 2 item (ol)
-    - level 3 item (ul)
-    - level 3 item (ul)
-- level 1 item (ul)
-  1. level 2 item (ol)
-  1. level 2 item (ol)
-    - level 3 item (ul)
-    - level 3 item (ul)
-  1. level 4 item (ol)
-  1. level 4 item (ol)
-    - level 3 item (ul)
-    - level 3 item (ul)
-- level 1 item (ul)
+### Task 5.3 Adjusting Caption Appearance 
 
-### And a task list
+**1.** Click on the caption to select caption window and adjust size and location of the window by dragging it. 
 
-- [ ] Hello, this is a TODO item
-- [ ] Hello, this is another TODO item
-- [x] Goodbye, this item is done
+![_INSERT IMAGE5.3.1_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task5.3.1.png?raw=true "OBS Studio Website")
 
-### Small image
+**2.** Right-Click [Window Capture] under "Sources" and Select [Filter]. This will display the filter setting for a caption window. 
 
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
+![_INSERT IMAGE5.3.2_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task5.3.2.png?raw=true "OBS Studio Website")
 
-### Large image
+**3.** Click [+] icon under "Effect Filters" to get a drop-down menu. 
 
-![](https://guides.github.com/activities/hello-world/branching.png)
+![_INSERT IMAGE5.3.3_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task5.3.3.png?raw=true "OBS Studio Website")
 
+**4.** Select [Chroma Key] to create a new effect. 
 
-### Definition lists can be used with HTML syntax.
+![_INSERT IMAGE5.3.4_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task5.3.4.png?raw=true "OBS Studio Website")
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+**5.** Name this filter and Click [OK]. 
 
-#### Multiple description terms and values
+![_INSERT IMAGE5.3.5_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task5.3.5.png?raw=true "OBS Studio Website")
 
-Term
-: Brief description of Term
+**6.** Select [Green] as its "Key Color Type" and make sure background of caption is transparent. Click [Close] to save this filter. 
 
-Longer Term
-: Longer description of Term,
-  possibly more than one line
+![_INSERT IMAGE5.3.6_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task5.3.6.png?raw=true "OBS Studio Website")
 
-Term
-: First description of Term,
-  possibly more than one line
+**7.** Check the location and appearance of caption is right. 
 
-: Second description of Term,
-  possibly more than one line
-
-Term1
-Term2
-: Single description of Term1 and Term2,
-  possibly more than one line
-
-Term1
-Term2
-: First description of Term1 and Term2,
-  possibly more than one line
-
-: Second description of Term1 and Term2,
-  possibly more than one line
-  
-### More code
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
