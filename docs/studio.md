@@ -13,9 +13,7 @@ Studio Mode is a very useful tool for streaming. It allows users change the scen
 
 Two panels will be presenting on the screen. The left panel is your **preview** scene and the right panel present the scene that is showing on **live scene**.
 
- Preview scene is editable when you are streaming. Hence, you can always make changes to it until you feel you are ready to present. 
-
- For this part of the instruction, I have two scenes, one is google home page on the browser and other one is the image. Please refer to the previous chapters of how to set up scenes and sources if you are unfamiliar with it. 
+ Preview scene is editable when you are streaming. Hence, you can always make changes to it until you feel you are ready to present. For this part of the instruction, I have two scenes, one is google home page on the browser and the other one is the image. 
 
  In order to show the content on the live scene (on the right), we need to upload the content on the preview scene (left scene) first and then switch to the right. We will go through how to do this with you now. Suppose we want to show **Scene1** on the live mode, we first need to upload it to the preview mode
 
