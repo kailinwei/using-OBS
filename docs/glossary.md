@@ -14,3 +14,11 @@ nav_order: 7
 
 **CCW** : Counter ClockWise
 
+**mkv**: It stands for "Matroska Video" file and it has greater file size than MP4. In OBS, this is a default file format for Mac users. 
+
+**flv**: It stands for "Flash Video" and it is a file extention that uses Adobe Flash Player or Adobe Air. In OBS, this is a default file format for Window users. 
+
+**Remux Recording**: Remux is a container for our encoding. Remuxing is a simple process which let us convert one file format to another file format.
+
+**Chroma Key**: It is used for layering or compositing two images based on its colour hues. It is often called "green screen" effect and it helps us to make caption transparent in this instruction. 
+
