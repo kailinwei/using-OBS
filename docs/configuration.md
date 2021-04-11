@@ -63,7 +63,7 @@ After that, a window pops up to set up your streaming information. You can choos
 Video bitrate means how many bits of data you are sending and the speed they are being sent. It should be determined by video resolution, video frame rate, upload bandwidth available and more. You can use this table to determine the bitrate to use:
 
 |      |**Video Bitrate**  |**Audio Bitrate**  |**Resolution**  |
-|:----:|:-----------------:|:-----------------:|:--------------:|
+|----|-----------------|-----------------|--------------|
 |**1080P**|6,000Kbps|128Kbps|1920×1080|
 |**720P**|3,000Kbps	|128Kbps|1280×720|
 |**480P**|1,000Kbps|128Kbps|854×480|
