@@ -4,11 +4,11 @@ title: Adding Captions
 nav_order: 6
 ---
 
-# Adding captions to video recording/live stream
+# Adding captions to video recording/live stream #
 
 When you are live-streaming or uploading recorded videos to YouTube, captions/subtitles could be helpful for viewers. In this step, I demonstrate how to add live caption using [Web Captioner](https://webcaptioner.com/captioner) and how to make those captions transparent so that it matches with your background. 
 
-### Task 5.1 Setting Web Captioner
+### Task 5.1 Setting Web Captioner ##
 
 **1.** Go to [Web Captioner website](https://webcaptioner.com/captioner). Click three dots icon and Select [Sign in]. 
 
@@ -32,7 +32,7 @@ When you are live-streaming or uploading recorded videos to YouTube, captions/su
 
 ![_INSERT IMAGE5.1.6_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task5.1.6.png?raw=true "OBS Studio Website") 
 
-### Task 5.2 Adding Live Captions on OBS
+### Task 5.2 Adding Live Captions on OBS ###
 
 **1.** Open OBS and click [+] icon under "Sources" to get a drop-down menu. 
 
@@ -58,7 +58,7 @@ When you are live-streaming or uploading recorded videos to YouTube, captions/su
 
 ![_INSERT IMAGE5.2.6_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task5.2.6.png?raw=true "OBS Studio Website")
 
-### Task 5.3 Adjusting Caption Appearance 
+### Task 5.3 Adjusting Caption Appearance ###
 
 **1.** Click on the caption to select caption window and adjust size and location of the window by dragging it. 
 
