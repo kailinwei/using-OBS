@@ -23,6 +23,10 @@ This guide was created by Mai, Hailey and Kailin from COMM 2116. At the early st
 
 Due to the school closure, we used Discord as our main communication channel to hold meetings. We valued communication importantly in this project, so we kept updating with our progress and discussed the problem we encountered together.
 
+## Structure
+
+To build a complete user guide in limited time, this documentation was built upon [just-the-docs](https://github.com/pmarsceill/just-the-docs) which contains Jekyll theme with built-in serach function. This documentation gave us framework of the document and we were able to provide detailed instructions. 
+
 ## Challenge ##
 
 To accomplish our goal of providing a helpful guideline to new users, our group faced many challenges.
