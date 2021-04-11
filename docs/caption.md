@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Markdown kitchen sink
+title: Adding Captions 
 nav_order: 6
 ---
 
