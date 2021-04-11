@@ -15,3 +15,15 @@ Link to the specific solution :  *[Capture audio with iShowU Audio Capture](http
 
 This is not an official guideline but it would be helpful to download and set up the audio with the extension.
 
+## Camera function disabled for other apps ##
+
+After downloading OBS Studio, you may be unable to turn on the camera function from other apps such Loom and Google Meet. You may see an image as the following screenshot.
+
+This happens because OBS builds in an OBS Virtual Camera in your laptop. If you do not want to use the OBS, do the following steps: 
+
+**1.** Select the *Camera* option in the setting of your app
+![trouble shooting1](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/troubleshooting%232.png?raw=true "Disabled camera function")
+**2.** Choose the original camera built in your laptop. 
+![image trouble shoot 1](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/troubleshooting%231.png?raw=true "Choose original camera")
+now you are able you use your video app now. 
+
