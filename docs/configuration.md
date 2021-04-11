@@ -12,7 +12,7 @@ We will demonstrate how to download the OBS Studio website from the beginning an
 
 ### Task 1.1 Downloading ###
 
-1. Go to [OBS Studio website](https://obsproject.com/).  
+1. Go to [OBS Studio website](https://obsproject.com/) 
 ![_INSERT IMAGE 1.1_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task1.1.png?raw=true "OBS Studio Website")
 
 2. Select **macOS 10.13** , this will start downloading OBS software on your laptop. The downloading file will appears at the bottom part of your browser.  
@@ -62,7 +62,7 @@ After that, a window pops up to set up your streaming information. You can choos
 
 Video bitrate means how many bits of data you are sending and the speed they are being sent. It should be determined by video resolution, video frame rate, upload bandwidth available and more. You can use this table to determine the bitrate to use:
 
-|      |**Video Bitrate**  |**Audio Bitrate**  |**Resolution**  |
+|      |**Video Bitrate**  |**Audio Bitrate**  |**Resolution**  |</br>
 |:----:|:-----------------:|:-----------------:|:--------------:|
 |**1080P**|6,000Kbps|128Kbps|1920×1080|
 |**720P**|3,000Kbps	|128Kbps|1280×720|
