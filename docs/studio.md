@@ -8,8 +8,8 @@ nav_order: 5
 
 Studio Mode is a very useful tool for streaming. It allows users change the scenes in the background without being seen by your viewers.
 
-**1.** Click the **Studio Mode** button on the right corner of your program window. 
-![_imag1.2.5_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task1.2.5.png?raw=true "Click Studio Mode") 
+**1.** Click the **Studio Mode** button on the right corner of your program window. You can adding the scene and sources by clicking the plus sign on the left corner of the main screen.
+![_imag1.5b_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task1.5b.png?raw=true "Click Studio Mode") 
 
 Two panels will be presenting on the screen. The left panel is your **preview** scene and the right panel present the scene that is showing on **live scene**.
 
