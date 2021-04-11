@@ -16,10 +16,10 @@ We will demonstrate how to download the OBS Studio website from the beginning an
 ![_INSERT IMAGE 1.1_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task1.1.png?raw=true "OBS Studio Website")
 
 **2.** Select **macOS 10.13** , this will start downloading OBS software on your laptop. The downloading file will appears at the bottom part of your browser.  
-_INSERT IMAGE1.2_
+![_INSERT IMAGE1.2_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task1.2.png?raw=true "Showing installation process")
 
 **3.** Click on the file when download is finished, to opening the downloaded software files. A small window will pop up to show the verification.  When the verification process is done, a small window will show up.
-_INSERT IMAGE 1.3_
+![_INSERT IMAGE 1.3_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task1.3.png?raw=true "Showing verification process")
 
 **4.** Select the **OBS.app** icon and drag it to the **Applications** icon. This step will help you move the downloaded files from **Download** folder to **Application** folder.  
 ![_INSET IMAGE 1.4_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task1.4.1.png?raw=true "Drag to application")
@@ -46,7 +46,7 @@ The following steps only appear for the first time downloading. We will guide yo
 When you open the OBS Studio software first time after finishing downloading, a window will appear to ask you to choose the program you would like to use. For the purpose of showing both of the streaming and recording functions, we will choose the first option. You can choose the second one if you only want to record. Choose the third option if you only use the virtual camera. You can always change the setting in **Tools** later if you would like to switch to a different program.  
 
 **1.** Click the first option, then click **Next**
-_image1.2.1_  
+![_image1.2.1_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task1.2.1.png?raw=true "Setting click Next")  
 
 Then, a window appears to ask you choosing the Base(Canvas) Resolution and the FPS.
 
@@ -56,7 +56,7 @@ Then, a window appears to ask you choosing the Base(Canvas) Resolution and the F
 In this instruction, we set Base(Canvas) Resolution or 1920 x 1080, and FPS for "Either 60 or 30 but prefer 60 when possible" which is more flexible choice.
 
 **2.** Click **Next** after you finishing choose the setting.  
-_image1.2.2_
+![_image1.2.2_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task1.2.2.png?raw=true "Setting click Next")  
 
 After that, a window pops up to set up your streaming information. You can choose your streaming services, server and the video bitrate.
 
@@ -79,14 +79,14 @@ Video bitrate means how many bits of data you are sending and the speed they are
 **5.** Select your server. We will use Auto (Recommend) in this instruction.
 
 **6.** Select your video bitrate and then choose **Next**.
- _image1.2.3_  
+![ _image1.2.3_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task1.2.3.png?raw=true "Setting click Next")  
 
 A window will pops up showing the configuration process. 
 
 **7.** Choose **Apply Settings** when the configuration process finished
- _image1.2.4_
+ ![_image1.2.4_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task1.2.4.png?raw=true "Setting click Apply Settings")  
 
-Then, the screen shows up and you are ready to use OBS Studio functions!
-_image1,2,5_
+Then, the main screen shows up and you are ready to use OBS Studio functions!
+![_image1,2,5a_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task1.2.5a.png?raw=true "Main Screen") 
 
 Please refer to the next chapter for how to record and stream your video!
