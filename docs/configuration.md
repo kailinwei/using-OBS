@@ -71,6 +71,7 @@ Video bitrate means how many bits of data you are sending and the speed they are
 |**240P**|300Kbps|96Kbps|426×240|
 
 
+<br>
 3. Click on **Service**, you will see many services options. Choose the one you would like to use. For this manuel, we will choose **Twitch** as an example.  
 
 4. Enter your Stream Key of your selected service. Select the recommended default server.
