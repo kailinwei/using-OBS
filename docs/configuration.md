@@ -6,7 +6,6 @@ nav_order: 2
 
 # Downloading and Set up #
 
-## Downloading ##
 
 We will demonstrate how to download the OBS Studio website from the beginning and explain the settings you will want to do along the downloading process.
 
