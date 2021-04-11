@@ -68,8 +68,8 @@ Video bitrate means how many bits of data you are sending and the speed they are
 |**720P**|3,000Kbps	|128Kbps|1280×720|
 |**480P**|1,000Kbps|128Kbps|854×480|
 |**360P**|600Kbps|96Kbps|640×360|
-|**240P**|300Kbps|96Kbps|426×240|  
-</br>
+|**240P**|300Kbps|96Kbps|426×240|
+
 
 3. Click on **Service**, you will see many services options. Choose the one you would like to use. For this manuel, we will choose **Twitch** as an example.  
 
