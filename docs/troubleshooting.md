@@ -24,5 +24,5 @@ This happens because OBS builds in an OBS Virtual Camera in your laptop. If you 
 **1.** Select the *Camera* option in the setting of your app
 **2.** Choose the original camera built in your laptop. 
 ![image trouble shoot 1](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/troubleshooting%231.png?raw=true "Choose original camera")
-now you are able you use your video app now. 
+You are able you use your video app now. 
 
