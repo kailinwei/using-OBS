@@ -18,7 +18,7 @@ We will demonstrate how to download the OBS Studio website from the beginning an
 **2.** Select **macOS 10.13** , this will start downloading OBS software on your laptop. The downloading file will appears at the bottom part of your browser.  
 ![_INSERT IMAGE1.2_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task1.2.png?raw=true "Showing installation process")
 
-**3.** Click on the file when download is finished, to opening the downloaded software files. A small window will pop up to show the verification.  When the verification process is done, a small window will show up.
+**3.** Click on the file when download is finished, to opening the downloaded software files. A small window will pop up to show the verification. When the verification process is done, a small window will show up.  
 ![_INSERT IMAGE 1.3_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task1.3.png?raw=true "Showing verification process")
 
 **4.** Select the **OBS.app** icon and drag it to the **Applications** icon. This step will help you move the downloaded files from **Download** folder to **Application** folder.  
