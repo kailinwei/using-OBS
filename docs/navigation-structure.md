@@ -108,7 +108,7 @@ You can transform the display with several options. These options allow the user
 
 If you want to add more source on your screen, you can do this later anytime with source tap.
 You can design your screen with any source you want to apply on source tab.
-The short explanation about each function is in the below table. (Table.)
+The short explanation about each function is in the below table:
 
 |      |**Explanation**  |
 |:----:|:-----------------:|
