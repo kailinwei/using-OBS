@@ -89,6 +89,5 @@ Then, the main screen shows up and you are ready to use OBS Studio functions!
 
 Please refer to the next chapter for how to record and stream your video!
 
-![Caution icon](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/warning.png){: style="float: left" }
->> **Caution**: This a caution icon which indicates please be careful with the following.
+
 
