@@ -26,3 +26,5 @@ This happens because OBS builds in an OBS Virtual Camera in your laptop. If you 
 ![image trouble shoot 1](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/troubleshooting%231.png?raw=true "Choose original camera")
 You are able you use your video app now. 
 
+## System Preference Setting ##
+When you open the camera for the first time, you will receive a message asking you giving OBS Studio access to your camera. This is a normal for Mac users. You can go you your system preference of your laptop and grant the access. 
