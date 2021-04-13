@@ -24,7 +24,7 @@ In this manual, we will demonstrate using the latest version of OBS Studio code 
 
 ## Software Versions ##
 
-This user guide was written for version 26.1.1 for the MacOS operating system.
+This user guide was written for OBS version 26.1.1 for the MacOS version 10.13 operating system.
 
 ## Prerequisites ##
 
