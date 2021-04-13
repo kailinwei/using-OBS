@@ -115,7 +115,7 @@ The short explanation about each function is in the below table:
 |**Audio Input Capture**|Add audio sounds with a device that attaches to a computer such as a microphone |
 |**Audio Output Capture**|Add audio sounds with a device that attaches to a computer such as a speaker|
 |**Browser**|Show a webpage from your browser tab |
-|**Color Source**|Add a color source|
+|**Color Source**|Add a color block as your background on the screen|
 |**Display Capture**| Show everything that is on our computer screen |  
 |**Image**| Show an image file in your computer|
 |**Media Source**|Steam a Media file such as video|    
