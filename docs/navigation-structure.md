@@ -141,6 +141,5 @@ WARNING: You should click the transition button after you change on the left scr
 
 **9.** Click the **Start Streaming** button to start your streaming.
 
-![_INSERT IMAGE2.2.9_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task2.2.9.png?raw=true "OBS Studio Website")You should click the transition button after you change on the left screen.
 
-You can check you are on live in the streaming site.
+![_INSERT warning](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/warning.png?raw=true   "OBS Studio Website"){: style="float: left" }>> You can check you are on live in the streaming site.
