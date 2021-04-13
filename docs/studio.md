@@ -40,11 +40,11 @@ Let's say you would like to share the two images in your preview screen.
 **7.** Click on **Transition** to switch. Now, the two images from the preview screen move to the live screen on the right.
  ![_image2e_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task2e.png?raw=true "Studio Mode") 
 
-There are some selection under the **Transition** button which allows to choose different scene transitions. You can choose cut, fade, and fade to black.
+There are some selection under the **Transition** button which allows to choose different scene transitions. You can choose **Cut**, **Fade**, and **Fade to Black**.
 
-* Cut is instant, it make the switching very fast.
+* **Cut** is instant, it make the switching very fast.
 ![_image2f_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task2f.png?raw=true "After Transition") 
-* Fade will make the transition over a period of time. You can adjust how long you want the transition to last in millisecond.
+* **Fade** will make the transition over a period of time. You can adjust how long you want the transition to last in millisecond.
 ![_image2g_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task2g.png?raw=true "Fade selections") 
 
 * The **Fade to Black** is similar to **Fade** except that it will fade to black first.
