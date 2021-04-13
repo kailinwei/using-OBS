@@ -7,7 +7,7 @@ nav_order: 2
 # Downloading and Set up #
 
 
-We will demonstrate how to download the OBS Studio website from the beginning and explain the settings you will want to do along the downloading process.
+We will demonstrate how to download the OBS Studio website from the beginning and explain the settings you will need along the downloading process.
 
 ### Task 1.1 Downloading ###
 
@@ -25,14 +25,14 @@ We will demonstrate how to download the OBS Studio website from the beginning an
 
 **5.** Go to your application folder and select the **OBS.app** to open the software. Since we just downloaded this app, we need some additional steps to set it up. These steps will not appears after the first time use.  
 
-**6.** Select "**Open**" when  window pop up to confirm if we want to open this newly downloaded app.  
+**6.** Select **Open** when  window pop up to confirm if we want to open this newly downloaded app.  
 ![_INSERT IMAGE 1.6_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task1.6.png?raw=true "Select Open")
 Then,a new window appears to ask you granting OBS access in Security & Privacy.
 
-**7.** Select "**Open System Preference**"
+**7.** Select **Open System Preference**
   ![_INSERT IMAGE 1.7_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task1.7.png?raw=true "Select Open system preference")
 
-**8.** Select "**OK**"for giving OBS access to microphone.
+**8.** Select **OK**for giving OBS access to microphone.
    ![ _INSERT IMAGE 1.8_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task1.8.png?raw=true "Select Ok to obtain microphone permission")
 
 Now, we finished giving OBS our access to necessary functions. We are ready to do some initial set up with the OBS software.
@@ -48,17 +48,17 @@ When you open the OBS Studio software first time after finishing downloading, a 
 
 Then, a window appears to ask you choosing the Base(Canvas) Resolution and the FPS.
 
->* Base(Canvas) Resolution means the resolution of the space you use to layout your overlays in OBS. In general, the bigger the number, the better the video quality. However, when you are using streaming function, the high resolution may cause lagging problems. It is recommended to use a **16:9** aspect ratios. Hence, the resolutions of  **1920 x 1080** and **1280 x 720** are recommended.  </br>
+>* Base(Canvas) Resolution means the resolution of the space you use to layout your overlays in OBS. In general, the bigger the number, the better the video quality. However, when you are using streaming function, the high resolution may cause lagging problems. It is recommended to use a **16:9** aspect ratios. Hence, the resolutions of  **1920 x 1080** and **1280 x 720** are recommended.
 >* FPS stands for frame per second, which means how fast a image is shown. 60FPS looks smooth when streaming, but it require extra work from your GPU or CPU to keep up. If you have a solid stream PC and the upload speed to match, 60FPS is recommended, because it look better. If not, 30 FPS is a reliable choices as it provide a clean video.
 
-In this instruction, we set Base(Canvas) Resolution or 1920 x 1080, and FPS for "Either 60 or 30 but prefer 60 when possible" which is more flexible choice.
+In this instruction, we set Base(Canvas) Resolution for 1920 x 1080, and FPS for "Either 60 or 30 but prefer 60 when possible" which is more flexible choice.
 
 **2.** Click **Next** after you finishing choose the setting.  
 ![_image1.2.2_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task1.2.2.png?raw=true "Setting click Next")  
 
 After that, a window pops up to set up your streaming information. You can choose your streaming services, server and the video bitrate.
 
-Video bitrate means how many bits of data you are sending and the speed they are being sent. It should be determined by video resolution, video frame rate, upload bandwidth available and more. You can use this table to determine the bitrate to use:
+Video bitrate means how many bits of data you are sending and the speed they are being sent. It should be determined by video resolution, video frame rate, upload bandwidth available and more. You can use this table to choose bitrate:
 
 |      |**Video Bitrate**  |**Audio Bitrate**  |**Resolution**  |
 |:---:|:---:|:---:|:---:|
@@ -79,7 +79,7 @@ Video bitrate means how many bits of data you are sending and the speed they are
 **6.** Select your video bitrate and then choose **Next**.
 ![ _image1.2.3_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task1.2.3.png?raw=true "Setting click Next")  
 
-A window will pops up showing the configuration process. 
+A window will pop up showing the configuration process. 
 
 **7.** Choose **Apply Settings** when the configuration process finished
  ![_image1.2.4_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task1.2.4.png?raw=true "Setting click Apply Settings")  
