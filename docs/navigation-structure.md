@@ -12,16 +12,16 @@ Now that you finished the basic setup of OBS studio, you can start to stream you
 
 ### Task 2.1 Connect To Streaming Website ###
 
-1) Click the **Settings** button which shows all setting options on the bottom of right.
+**1.** Click the **Settings** button which shows all setting options on the bottom of right.
 ![_INSERT IMAGE 2.1.1_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task2.1.1.png?raw=true "OBS Studio Website")    
 
-2) Click the **Stream** button on the left side. 
+**2.** Click the **Stream** button on the left side. 
 
     In this window, you can choose a streaming service that you want to use. We will use Twitch and YouTube in this instruction.
 
 ![_INSERT IMAGE2.1.2_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task2.1.2.png?raw=true "OBS Studio Website")
 
-3) Select streaming service you want to broadcast. (Twitch or YouTube - RTMP)
+**3.** Select streaming service you want to broadcast. (Twitch or YouTube - RTMP)
 
 ![_INSERT IMAGE2.1.3_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task2.1.3.png?raw=true "OBS Studio Website")
 
@@ -33,7 +33,7 @@ Now that you finished the basic setup of OBS studio, you can start to stream you
 
 ![_INSERT IMAGE2.1.4_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task2.1.4.png?raw=true "OBS Studio Website")
 
-2.3.2
+
 * **Youtube**
 
     You should have an account and verify your phone number, If you did not when you make your account.
@@ -42,12 +42,12 @@ Now that you finished the basic setup of OBS studio, you can start to stream you
 
 _INSERT IMAGE2.1.5_
 
-4) Click the **Get Stream Key** to get your stream key that connects to the streaming site and OBS studio. 
+**4.** Click the **Get Stream Key** to get your stream key that connects to the streaming site and OBS studio. 
 When you click the **Get Stream Key** button, you will be directed to the streaming website. 
 
 ![_INSERT IMAGE2.1.6_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task2.1.6.png?raw=true "OBS Studio Website")
 
-5) Copy the Primary stream key and paste it on the Stream Key section on OBS.
+**5.** Copy the Primary stream key and paste it on the Stream Key section on OBS.
 
 :warning: Note: If you don’t go to this web page, you should login first and click it again.
 
@@ -64,21 +64,21 @@ The following steps only appear for connection to streaming website. There is no
 Now, We will guide you through about how to add display source and web camera on your streaming screen. 
 
 
-1) Go back to the main screen and click the **Up** button on the Sources tap.
+**1.** Go back to the main screen and click the **Up** button on the Sources tap.
 
 ![_INSERT IMAGE2.2.1_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task2.2.1.png?raw=true "OBS Studio Website")
 
-2) Click the **Display Capture** Button to add a screen you want to display first. 
+**2.** Click the **Display Capture** Button to add a screen you want to display first. 
 
 ![_INSERT IMAGE2.2.2_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task2.2.2.png?raw=true "OBS Studio Website")
 
-3) Choose a display option which you want to stream and click OK.
+**3.** Choose a display option which you want to stream and click OK.
 
 ![_INSERT IMAGE2.2.3_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task2.2.3.png?raw=true "OBS Studio Website")
 
 :warning: Note: If you use a single monitor, you don’t need to choose the display option. 
 
-4) Click your right mouse button on the left screen. 
+**4.** Click your right mouse button on the left screen. 
 
 You can transform the display with several options. These options allow the user to modify your screen (????)
 
@@ -87,19 +87,19 @@ You can transform the display with several options. These options allow the user
 
 
 
-5) Click **Video Capture Device** to add your webcam. 
+**5.** Click **Video Capture Device** to add your webcam. 
 
 
 ![_INSERT IMAGE2.2.5_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task2.2.5.png?raw=true "OBS Studio Website")
 
     You can change the name if you want.
 
-6) Select the camera device that you want to use on the Device tab and click OK.
+**6.** Select the camera device that you want to use on the Device tab and click OK.
 
 
 ![_INSERT IMAGE2.2.6_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task2.2.6.png?raw=true "OBS Studio Website")
 
-7) Resize the size of the second screen and move the location if you want.
+**7.** Resize the size of the second screen and move the location if you want.
 
 ![_INSERT IMAGE2.2.7_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task2.2.7png.png?raw=true "OBS Studio Website")
 
@@ -129,7 +129,7 @@ The short explanation about each function is in the below table. (Table.)
 If you have a trouble with **Audio Output Capture**, Please check out *[Trouble Shooting](https://kailinwei.github.io/using-OBS/docs/troubleshooting/)*.
 
 
-8) Click the **Transition** button after you set up your streaming screen.
+**8.** Click the **Transition** button after you set up your streaming screen.
 
     The **left screen** is the screen you can edit and the **right screen** is the one that will show on streaming. 
 
@@ -137,7 +137,7 @@ If you have a trouble with **Audio Output Capture**, Please check out *[Trouble 
 
     WARNING: You should click the transition button after you change on the left screen.
 
-9) Click the **Start Streaming** button to start your streaming.
+**9.** Click the **Start Streaming** button to start your streaming.
 
 ![_INSERT IMAGE2.2.9_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task2.2.9.png?raw=true "OBS Studio Website")
 
