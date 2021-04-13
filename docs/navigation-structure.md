@@ -80,7 +80,7 @@ Now, We will guide you through about how to add display source and web camera on
 
 **4.** Click your right mouse button on the left screen. 
 
-You can transform the display with several options. These options allow the user to modify your screen (????)
+You can transform the display with several options. These options allow the user to rotate or edit the screen display.
 
 
 ![_INSERT IMAGE2.2.4_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task2.2.4.png?raw=true "OBS Studio Website")
@@ -142,4 +142,4 @@ WARNING: You should click the transition button after you change on the left scr
 **9.** Click the **Start Streaming** button to start your streaming.
 
 
-![_INSERT warning](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/warning.png?raw=true   "OBS Studio Website"){: style="float: left" }>> You can check you are on live in the streaming site.
+![_INSERT IMAGE2.2.9_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task2.2.9.png?raw=true "OBS Studio Website")
