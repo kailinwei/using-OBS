@@ -65,7 +65,7 @@ In this step, I will demonstrate how to set up and start recording your screens.
 
 ![_INSERT IMAGE3.3.1_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task3.3.1.png?raw=true "OBS Studio Website") 
 
-**2.** Click **double vertical line** icon on right side of **Stop Recording** to pause the recordings. Click **Stop Recording** to complete the recording. 
+**2.** Click double vertical line icon on right side of **Stop Recording** to pause the recordings. Click **Stop Recording** to complete the recording. 
 
 ![_INSERT IMAGE3.3.2_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task3.3.2.png?raw=true "OBS Studio Website") 
 
