@@ -23,7 +23,7 @@ Now that you finished the basic setup of OBS studio, you can start to stream you
 
 ![_INSERT IMAGE2.1.3_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task2.1.3.png?raw=true "Click Streaming Service")
 
-* **Twitch**
+* Twitch
 
     
     You should have an account to use the streaming service.
@@ -32,7 +32,7 @@ Now that you finished the basic setup of OBS studio, you can start to stream you
 ![_INSERT IMAGE2.1.4_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task2.1.4.png?raw=true "Twitch")
 
 
-* **Youtube**
+* Youtube
 
     You should have an account and verify your phone number, If you did not when you make your account.
 
