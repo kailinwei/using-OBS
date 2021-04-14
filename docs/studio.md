@@ -17,7 +17,7 @@ Two panels will be presenting on the screen. The left panel is your preview scen
 
  In order to show the content on the live scene (on the right), we need to upload the content on the preview scene (left scene) first and then switch to the right. We will go through how to do this with you now. Suppose we want to show **Scene1** on the live mode, we first need to upload it to the preview mode.
 
-**2.** Select the scene you would like to show on the live mode. Then, click on  the "eye" icon side the source you like to choose. The scene, which is a Google ho,e panel will show up on the left scene now.
+**2.** Select the scene you would like to show on the live mode. Then, click on  the "eye" icon side the source you like to choose. The scene, which is a Google home panel will show up on the left scene now.
 ![_image2a_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task2a.png?raw=true "Two screens apears") 
 
 **3.** Select the **Transition** button in the middle of the screen. Then your the Google browser will display on the live move (right).
