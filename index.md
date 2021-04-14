@@ -14,7 +14,7 @@ OBS Studio is widely used for various purposes including  education, professiona
 
 In this manual, we will demonstrate using the latest version of OBS Studio code and macOS.
 
-## By the end of this guide, you will ##
+## By the end of this guide, you will: ##
 
 * Download and setup OBS Studio
 * Stream a game live using Twitch or Youtube account
@@ -28,7 +28,7 @@ This user guide was written for OBS version 26.1.1 for the MacOS version 10.13 o
 
 ## Prerequisites ##
 
-To follow these introduction, you will need :
+To follow these introduction, you will need:
 
 * Mac Operating System 10.13 or later versions
 * Streaming site account (Twitch or Youtube)
