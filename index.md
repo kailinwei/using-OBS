@@ -40,9 +40,9 @@ To follow these introduction, you will need:
 
 | **Covention**    |**Typeface**  |**Examples** |
 |:---:|:---:|:---:|
-|**Bold and italic for note**|[**_Note_**]|**_Note_**|
-|**Bold for buttons**|[**Button**]	|**Next**|
-|**Bold and uppercase for warning**|[**UPPERCASE**]|**WARNING**|
+|Bold and italic for notes|[**_Note_**]|**_Note_**|
+|Bold for buttons|[**Button**]	|**Next**|
+|Bold and uppercase for warnings|[**UPPERCASE**]|**WARNING**|
 
 <br />
 
