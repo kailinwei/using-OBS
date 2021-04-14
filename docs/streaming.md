@@ -6,8 +6,6 @@ nav_order: 3
  
 # Streaming #
 
-## Streaming ##
-
 Now that you finished the basic setup of OBS studio, you can start to stream your screen using the streaming website using Twitch or YouTube. The OBS Studio has provided various plugins and more functions than a basic streaming site. We will show you how to connect OBS Studio with the streaming site in two versions with useful plugins.
 
 ### Task 2.1 Connect To Streaming Website ###
@@ -136,7 +134,9 @@ If you have a trouble with **Audio Output Capture**, Please check out *[Trouble 
 
 ![_INSERT IMAGE2.2.8_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task2.2.8.png?raw=true "OBS Studio Website")
 
-![_INSERT warning](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/warning.png?raw=true "OBS Studio Website")
+![_INSERT warning](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/warning.png?raw=true "OBS Studio Website"){: style="float: left" }
+
+
 WARNING: You should click the transition button after you change on the left screen.
 
 
@@ -144,3 +144,8 @@ WARNING: You should click the transition button after you change on the left scr
 
 
 ![_INSERT IMAGE2.2.9_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task2.2.9.png?raw=true "OBS Studio Website")
+
+
+Congratulations! You are finished setting up for streaming with OBS studio. As you've learned now, you can organize your screen with a source panel and choose any streaming service on the setting.
+
+Next, you can record your live video with start *[recording](https://kailinwei.github.io/using-OBS/docs/recording/)* or use more functions for your streaming with *[studio mode](https://kailinwei.github.io/using-OBS/docs/studio/)*. 
