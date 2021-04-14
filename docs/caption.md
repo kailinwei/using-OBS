@@ -86,6 +86,12 @@ Select **RGB (27, 233, 12)** (Green) as "Background Color". Click **x** icon to 
 
 ![_INSERT IMAGE5.3.6_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task5.3.6.png?raw=true "Select Green and close")
 
+![_INSERT warning](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/caution.png?raw=true "Warning"){: style="float: left" }
+
+**WARNING**:  You should select **Green** color. Other colour doesn't work in this step. You can see the details about the Choma key is in [Glossary](https://kailinwei.github.io/using-OBS/docs/glossary/)
+
+<br />
+
 **7.** Check the location and appearance of caption is right. 
 
 <br />
