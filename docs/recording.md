@@ -104,4 +104,4 @@ In this step, I will demonstrate how to set up and start recording your screens.
 \
 Now you know how to record your screens and convert the video format so that you can upload your videos to the online video platform such as YouTube.
 \
-The next step is to learn [how to use Studio Mode](https://github.com/kailinwei/using-OBS/blob/gh-pages/docs/studio.md).
+The next step is to learn [how to use Studio Mode](https://kailinwei.github.io/using-OBS/docs/studio/).
