@@ -11,11 +11,13 @@ In this step, I will demonstrate how to set up and start recording your screens.
 
 ### Task 3.1 Recording Set Up 
 
-**1.** Click **Tools** on menu bar on the top and select "Auto-Configuration Wizard". This will open "Auto-Configuration Wizard" setting.
+**1.** Click **Tools** on menu bar on the top and select "Auto-Configuration Wizard". 
+This will open "Auto-Configuration Wizard" setting.
 
 ![_INSERT IMAGE3.1.1_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task3.1.1.png?raw=true "OBS Studio Website") 
 
-**2.** Select "Optimize just for recording, I will not be streaming". This will help us to have best setting for recording in very simple way. Click **Next** after you select those settings. 
+**2.** Select "Optimize just for recording, I will not be streaming". Click **Next** after you select those settings. 
+This will help us to have best setting for recording in very simple way. 
 
 ![_INSERT IMAGE3.1.2_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task3.1.2.png?raw=true "OBS Studio Website") 
 
@@ -29,7 +31,8 @@ In this step, I will demonstrate how to set up and start recording your screens.
 
 ### Task 3.2 Adding Sources and Adjusting Resolution
 
-**1.** Go back to main screen and click **+** button under "Sources" to get a drop-down menu. This will help us to add screens, images, and webcams etc..
+**1.** Go back to main screen and click **+** button under "Sources" to get a drop-down menu. 
+This will help us to add screens, images, and webcams etc..
 
 <em>Give permission to OBS Studio on some of the privacy settings if they ask.</em>
 
@@ -43,7 +46,8 @@ In this step, I will demonstrate how to set up and start recording your screens.
 
 ![_INSERT IMAGE3.2.3_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task3.2.3.png?raw=true "OBS Studio Website") 
 
-**4.** Select "0" for **Display** and "None" for **Crop** and click **OK**. In here, we stick with basic settings so we do not need to change anything. 
+**4.** Select "0" for **Display** and "None" for **Crop** and click **OK**. 
+In here, we stick with basic settings so we do not need to change anything. 
 
 ![_INSERT IMAGE3.2.4_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task3.2.4.png?raw=true "OBS Studio Website") 
 
@@ -55,13 +59,15 @@ In this step, I will demonstrate how to set up and start recording your screens.
 
 ![_INSERT IMAGE3.2.6_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task3.2.6.png?raw=true "OBS Studio Website") 
 
-**7.** Click and hold the left top corner of red box to adjust screen size so that it fits within black box. When you move cursor to right bottom corner, it will make the screen smaller. 
+**7.** Click and hold the left top corner of red box to adjust screen size so that it fits within black box. 
+When you move cursor to right bottom corner, it will make the screen smaller. 
 
 ![_INSERT IMAGE3.2.7_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task3.2.7.png?raw=true "OBS Studio Website") 
 
 ### Task 3.3 Starting and Stopping  Recording 
 
-**1.** Click **Start Recording** on the right bottom corner. This will start recording the screens you selected. 
+**1.** Click **Start Recording** on the right bottom corner. 
+This will start recording the screens you selected. 
 
 ![_INSERT IMAGE3.3.1_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task3.3.1.png?raw=true "OBS Studio Website") 
 
@@ -70,7 +76,8 @@ In this step, I will demonstrate how to set up and start recording your screens.
 ![_INSERT IMAGE3.3.2_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task3.3.2.png?raw=true "OBS Studio Website") 
 
 
-**3.** Click **File** on menu bar on the top and select "Show Recordings". This will show the location of the recorded file. 
+**3.** Click **File** on menu bar on the top and select "Show Recordings". 
+This will show the location of the recorded file. 
 
 ![_INSERT IMAGE3.3.3_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task3.3.3.png?raw=true "OBS Studio Website") 
 
@@ -82,12 +89,12 @@ In this step, I will demonstrate how to set up and start recording your screens.
 
 ### Task 3.4 Converting Video Format for Uploading
 
-**1.** Click **File** on menu bar on the top and select "Remux Recordings". This will help us to convert default mkv file to mp4 file. The reason of this file conversion is that many editing software or  YouTube won't take mkv or flv files by default so we need to covert them to other format such as mp4. 
+**1.** Click **File** on menu bar on the top and select "Remux Recordings". 
+This will help us to convert default mkv file to mp4 file. The reason of this file conversion is that many editing software or  YouTube won't take mkv or flv files by default so we need to covert them to other format such as mp4. 
 
 <em>We recommend you to use either "mkv (default)" or "flv" as recording format. This is because they are crash-proof so you won't lose all recorded data even OBS crashes. </em>
 
 ![_INSERT IMAGE3.4.1_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task3.4.1.png?raw=true "OBS Studio Website") 
-
 
 **2.** Click **"..."** icon under "OBS Recording".
 
