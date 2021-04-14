@@ -89,7 +89,7 @@ In this step, I will demonstrate how to set up and start recording your screens.
 ![_INSERT IMAGE3.4.1_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task3.4.1.png?raw=true "OBS Studio Website") 
 
 
-**2.** Click **...** icon under "OBS Recording".
+**2.** Click **"..."** icon under "OBS Recording".
 
 ![_INSERT IMAGE3.4.2_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task3.4.2.png?raw=true "OBS Studio Website") 
 
@@ -100,3 +100,8 @@ In this step, I will demonstrate how to set up and start recording your screens.
 **4.** Check the file name under "Target File" ends with ".mp4". Click **Remux**, then OBS will convert selected file to mp4 format.
 
 ![_INSERT IMAGE3.4.4_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task3.4.4.png?raw=true "OBS Studio Website") 
+\
+\
+Now you know how to record your screens and convert the video format so that you can upload your videos to the online video platform such as YouTube.
+\
+The next step is to learn [how to use Studio Mode](https://github.com/kailinwei/using-OBS/blob/gh-pages/docs/studio.md).
