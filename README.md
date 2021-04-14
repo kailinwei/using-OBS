@@ -25,7 +25,7 @@ Due to the school closure, we used Discord as our main communication channel to 
 
 ## Language
 
-To increase readability and formatting, We chose *[Markdown](https://www.markdownguide.org)* language as a styling aid. Markdown is a language that has a plain text format and it can be converted into HTML.  You can use markdown with not only simple text editors like Notepad on Windows and TextEdit on macOS but also code editor like Visual Studio. 
+To increase readability and formatting, We chose [Markdown](https://www.markdownguide.org) language as a styling aid. Markdown is a language that has a plain text format and it can be converted into HTML.  You can use markdown with not only simple text editors like Notepad on Windows and TextEdit on macOS but also code editor like Visual Studio. 
 
 Also, markdown is lightweight meaning anyone can learn this and doesn't take much time to learn this. Markdown has a simple structure, so you can use it fast and easily to catch errors.
 
