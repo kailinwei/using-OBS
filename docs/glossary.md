@@ -12,9 +12,9 @@ nav_order: 7
 
 **Main Screen**: In this instruction, main screen refer to the screen you see when you open the OBS studio.
 
-**CW** : Clock Wise
+**CW** : Clockwise
 
-**CCW** : Counter ClockWise
+**CCW** : Counter-clockwise
 
 **mkv**: It stands for "Matroska Video" file and it has greater file size than MP4. In OBS, this is a default file format for Mac users. 
 
