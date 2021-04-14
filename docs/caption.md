@@ -6,7 +6,7 @@ nav_order: 6
 
 # Adding captions to video recording/live stream #
 
-When you are live-streaming or uploading recorded videos to YouTube, captions/subtitles could be helpful for viewers. In this step, I will demonstrate how to add live caption using [Web Captioner](https://webcaptioner.com/captioner) and how to make those captions transparent so that it matches with your background. 
+When you are live-streaming or uploading recorded videos to YouTube, captions/subtitles could be helpful for viewers. In this step, I will demonstrate how to add a live caption using [Web Captioner](https://webcaptioner.com/captioner) and how to make those captions transparent so that it matches with your background. 
 
 ### Task 5.1 Setting Web Captioner ##
 
@@ -14,7 +14,7 @@ When you are live-streaming or uploading recorded videos to YouTube, captions/su
 
 ![_INSERT IMAGE5.1.1_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task5.1.1.png?raw=true "Click Sign In") 
 
-**2.** Select any of sign-in option you prefer to sign in. This will help us to save the settings in our account. 
+**2.** Select any sign-in option you prefer to sign in. This will help us to save the settings in our account. 
 
 **3.** Click three dots icon and select **Settings**. 
 
@@ -48,7 +48,7 @@ Select **RGB (27, 233, 12)** (Green) as "Background Color". Click **x** icon to 
 
 ![_INSERT IMAGE5.2.3_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task5.2.3.png?raw=true "Create New")
 
-**4.** Click arrow icon on right side of "Window" to get a drop-down menu.
+**4.** Click arrow icon on the right side of "Window" to get a drop-down menu.
 
 ![_INSERT IMAGE5.2.4_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task5.2.4.png?raw=true "Clcik Arrow")
 
@@ -56,13 +56,13 @@ Select **RGB (27, 233, 12)** (Green) as "Background Color". Click **x** icon to 
 
 ![_INSERT IMAGE5.2.5_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task5.2.5.png?raw=true "Select Google Chrome")
 
-**6.** Click **OK** after you make sure correct window is displayed. 
+**6.** Click **OK** after you make sure the correct window is displayed. 
 
 ![_INSERT IMAGE5.2.6_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task5.2.6.png?raw=true "Click OK")
 
 ### Task 5.3 Adjusting Caption Appearance ###
 
-**1.** Click on the caption to select caption window and adjust size and location of the window by dragging it. 
+**1.** Click on the caption to select the caption window and adjust the size and location of the window by dragging it. 
 
 ![_INSERT IMAGE5.3.1_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task5.3.1.png?raw=true "Select and drag Caption Window")
 
@@ -82,7 +82,7 @@ Select **RGB (27, 233, 12)** (Green) as "Background Color". Click **x** icon to 
 
 ![_INSERT IMAGE5.3.5_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task5.3.5.png?raw=true "Name the filter")
 
-**6.** Select **Green** as its "Key Color Type" and make sure background of caption is transparent. Click **Close** to save this filter. 
+**6.** Select **Green** as its "Key Color Type" and make sure the background of caption is transparent. Click **Close** to save this filter. 
 
 ![_INSERT IMAGE5.3.6_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task5.3.6.png?raw=true "Select Green and close")
 
@@ -92,7 +92,7 @@ Select **RGB (27, 233, 12)** (Green) as "Background Color". Click **x** icon to 
 
 <br />
 
-**7.** Check the location and appearance of caption is right. 
+**7.** Check the location and appearance of a caption is right. 
 
 <br />
 
@@ -102,7 +102,7 @@ Now you know how to add live captions for your videos or live stream and make th
 
 # Conclusion #
 
-Once you went through this guideline, you have learnt the basic features of OBS studio. Now you can start recording, streaming, using studio mode and adding captions to the videos.
+Once you went through this guideline, you have learnt the basic features of OBS studio. Now you can start recording, streaming, using studio mode, and adding captions to the videos.
 
 With the skills learnt from this instruction, you would be able to
 explore more interesting features of OBS studio.
