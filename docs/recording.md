@@ -51,7 +51,7 @@ In this step, I will demonstrate how to set up and start recording your screens.
 
 ![_INSERT IMAGE3.2.5_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task3.2.5.png?raw=true "OBS Studio Website") 
 
-**6.** Go to **System Preferences** on Mac Operating system>**Displays**>**Display** and select **Scaled** for "Resolution". Select the same resolution as previous step, you can check resolution value under picture of Mac. 
+**6.** Go to **System Preferences** (on Mac Operating system)>**Displays**>**Display** and select **Scaled** for "Resolution". Select the same resolution as previous step, you can check resolution value under picture of Mac. 
 
 ![_INSERT IMAGE3.2.6_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task3.2.6.png?raw=true "OBS Studio Website") 
 
@@ -65,7 +65,7 @@ In this step, I will demonstrate how to set up and start recording your screens.
 
 ![_INSERT IMAGE3.3.1_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task3.3.1.png?raw=true "OBS Studio Website") 
 
-**2.** Click **||** icon on right side of ***Stop Recording** to pause the recordings. Click **Stop Recording** to complete the recording. 
+**2.** Click **double vertical line** icon on right side of **Stop Recording** to pause the recordings. Click **Stop Recording** to complete the recording. 
 
 ![_INSERT IMAGE3.3.2_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task3.3.2.png?raw=true "OBS Studio Website") 
 
