@@ -126,6 +126,8 @@ A short explanation about each function is in the below table:
 
 If you have trouble with **Audio Output Capture**, Please check out [Trouble Shooting](https://kailinwei.github.io/using-OBS/docs/troubleshooting/).
 
+You can see the details about the **Scene** in [Studio mode](https://kailinwei.github.io/using-OBS/docs/studio/).
+
 
 **8.** Click the **Transition** button after you set up your streaming screen.
 
