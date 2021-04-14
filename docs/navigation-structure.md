@@ -136,8 +136,9 @@ If you have a trouble with **Audio Output Capture**, Please check out *[Trouble 
 
 ![_INSERT warning](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/warning.png?raw=true "OBS Studio Website"){: style="float: left" }
 
+**WARNING**: You should click the transition button after you change on the left screen.
 
-WARNING: You should click the transition button after you change on the left screen.
+<br />
 
 
 **9.** Click the **Start Streaming** button to start your streaming.
