@@ -125,7 +125,7 @@ The short explanation about each function is in the below table:
 |**Window Capture**|Show a certain application display on a computer such as PhotoShop|  
 
 
-If you have a trouble with **Audio Output Capture**, Please check out *[Trouble Shooting](https://kailinwei.github.io/using-OBS/docs/troubleshooting/)*.
+If you have a trouble with **Audio Output Capture**, Please check out [Trouble Shooting](https://kailinwei.github.io/using-OBS/docs/troubleshooting/).
 
 
 **8.** Click the **Transition** button after you set up your streaming screen.
@@ -149,5 +149,5 @@ If you have a trouble with **Audio Output Capture**, Please check out *[Trouble 
 
 Congratulations! You are finished setting up for streaming with OBS studio. As you've learned now, you can organize your screen with a source panel and choose any streaming service on the setting.
 
-Next, you can record your live video with start *[recording](https://kailinwei.github.io/using-OBS/docs/recording/)* or use more functions for your streaming with *[studio mode](https://kailinwei.github.io/using-OBS/docs/studio/)*. 
+Next, you can record your live video with start [recording](https://kailinwei.github.io/using-OBS/docs/recording/) or use more functions for your streaming with [studio mode](https://kailinwei.github.io/using-OBS/docs/studio/). 
 
