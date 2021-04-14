@@ -8,7 +8,7 @@ permalink: /
 
 # Introduction #
 
-The purpose of this document is to help Mac users to use Open Broadcaster Software (OBS) Studio, which is an open-source software used for recording and live streaming. OBS is designed to record and mix audio and videos, as well as texts and images. Users can  personalize settings for various functions such as multiple scenes, switching scenes and more. 
+The purpose of this document is to help Mac users to use Open Broadcaster Software (OBS) Studio, which is an open-source software used for recording and live streaming. OBS studio is designed to record and mix audio and videos, as well as texts and images. Users can  personalize settings for various functions such as multiple scenes, switching scenes and more. 
 
 OBS Studio is widely used for various purposes including  education, professional video game streaming, holding seminars and more, because of its free in price and various user interfaces. This manual is for all Mac users and helps them navigate and use the OBS Studio. 
 
