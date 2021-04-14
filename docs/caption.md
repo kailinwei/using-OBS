@@ -88,8 +88,12 @@ Select **RGB (27, 233, 12)** (Green) as "Background Color". Click **x** icon to 
 
 **7.** Check the location and appearance of caption is right. 
 
+<br />
+<br />
 Now you know how to add live captions for your videos or live stream and make the caption transparent to match the background.
 
+<br />
+<br />
 # Conclusion #
 
 Once you went through this guideline, you have learnt the basic features of OBS studio. Now you can start recording, streaming, using studio mode and adding captions to the videos.
