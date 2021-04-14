@@ -23,9 +23,9 @@ Two panels will be presenting on the screen. The left panel is your preview scen
 **3.** Select the **Transition** button in the middle of the screen. Then your the Google browser will display on the live move (right).
  ![ _image2b_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task2b.png?raw=true "Select transition") 
 
-Now, think about the image you want to present on the **Preview** mode. For this instruction, we will work choose Scene2 which will display some images.
+Now, think about the image you want to present on the preview mode. For this instruction, we will work choose Scene2 which will display some images.
 
-**4.** Choose the **Scene2**, and select both the "eye" icon beside **Image**. Then, a cartoon image shows on the preview panel.
+**4.** Choose the **Scene2**, and select both the **"eye"** icon beside **Image**. Then, a cartoon image shows on the preview panel.
 
 **5.** Click on **Start Streaming**
 ![_image2c_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task2c.png?raw=true "Studio Mode") 
@@ -33,7 +33,7 @@ Now, think about the image you want to present on the **Preview** mode. For this
  Now we are live streaming sharing the Google browser on the right panel, the cartoon image is still on the edit position.
  If we want to present two images on the preview screen to live stream later,  so we need to add one more image on the preview screen.
 
-**6.** Click on the "eye" icon besides **Image2**, so a new image appears. You can drag the image to adjust its position and the sizes.
+**6.** Click on the **"eye"** icon besides **Image2**, so a new image appears. You can drag the image to adjust its position and the sizes.
  ![_image2d_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task2d.png?raw=true "Studio Mode") 
 
 Let's say you would like to share the two images in your preview screen.  
