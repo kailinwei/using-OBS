@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Trouble Shooting 
+title: Troubleshooting 
 nav_order: 10
 ---
 
-# Trouble Shooting #
+# Troubleshooting #
 
 ## Desktop Audio Device in Setting is disabled / No audio output device ##
 
