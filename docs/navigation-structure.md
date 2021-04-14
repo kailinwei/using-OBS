@@ -48,19 +48,19 @@ When you click the **Get Stream Key** button, you will be directed to the stream
 
 **5.** Copy the Primary stream key and paste it on the Stream Key section on OBS.
 
-<em>**Note**: If you don’t go to this web page, you should login first and click it again.</em>
+<em>**Note**: If you don’t go to this web page, you should log in first and click it again.</em>
 
 
 ![_INSERT IMAGE2.1.7_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task2.1.7.png?raw=true "Copy And Paste")
 
-Now, we finished make connection between OBS studio and streaming website. You can start streaming with **Start Streaming** button on the bottom right.
+Now, we finished making connections between OBS studio and the streaming website. You can start streaming with **Start Streaming** button on the bottom right.
 
 
 ### Task 2.2 Set Up Your Display Screen ###
 
 The following steps only appear for connection to streaming website. There is no streaming source on the screen yet, so if you clicked the Start Streaming button in the previous step, you will be broadcasting only a black screen.
 
-Now, We will guide you through about how to add display source and web camera on your streaming screen. 
+Now, We will guide you through how to add a display source and web camera to your streaming screen. 
 
 
 **1.** Go back to the main screen and click the **+** button on the Sources tap.
@@ -102,12 +102,11 @@ You can change the name if you want.
 
 ![_INSERT IMAGE2.2.7_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task2.2.7png.png?raw=true "Resize")
 
+<em>**Note**: We blurred our web-camera screen by using a photo edit program on purpose, you will get the clear screen.</em>
 
-<em>**Note**: We blurred our web-camera screen by using photo edit program on purpose, you will get the clear screen.</em>
-
-If you want to add more source on your screen, you can do this later anytime with source tap.
-You can design your screen with any source you want to apply on source tab.
-The short explanation about each function is in the below table:
+If you want to add more sources to your screen, you can do this later anytime with a source tap.
+You can design your screen with any source you want to apply on the source tab.
+A short explanation about each function is in the below table:
 
 |      |**Explanation**  |
 |:----:|:-----------------:|
@@ -125,7 +124,7 @@ The short explanation about each function is in the below table:
 |**Window Capture**|Show a certain application display on a computer such as PhotoShop|  
 
 
-If you have a trouble with **Audio Output Capture**, Please check out [Trouble Shooting](https://kailinwei.github.io/using-OBS/docs/troubleshooting/).
+If you have trouble with **Audio Output Capture**, Please check out [Trouble Shooting](https://kailinwei.github.io/using-OBS/docs/troubleshooting/).
 
 
 **8.** Click the **Transition** button after you set up your streaming screen.
