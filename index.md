@@ -42,12 +42,12 @@ To follow these introduction, you will need:
 |:---:|:---:|:---:|
 |**Bold and italic for note**|[**_Note_**]|**_Note_**|
 |**Bold for buttons**|[**Button**]	|**Next**|
-|**Bold and uppercase for warning**|[[**UPPERCASE**]|**WARNING**|
+|**Bold and uppercase for warning**|[**UPPERCASE**]|**WARNING**|
 
 <br />
 
 ![_INSERT warning](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/caution.png?raw=true "Warning"){: style="float: left" }
->> **Note**: This is a note icon which indicates please pay attention to the following.
+>> **WARNING**: This is a warning icon which indicates please be careful to the following.
 
 <br />
 <br />
