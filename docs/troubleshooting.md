@@ -29,6 +29,6 @@ You are able you use your video app now.
 ## System Preference Setting ##
 When you open the camera for the first time, you will receive a message asking you giving OBS Studio access to your camera. This is a normal for Mac users. You can go you your system preference of your laptop and grant the access. 
 
-![image trouble shoot 3](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/troubleshooting%233.png "Check the OBS studio")
+![image trouble shoot 3](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/troubleshooting%233.png?raw=true "Check the OBS studio")
 
 You should check the OBS studio in this section.
