@@ -134,7 +134,7 @@ If you have a trouble with **Audio Output Capture**, Please check out *[Trouble 
 
 ![_INSERT IMAGE2.2.8_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task2.2.8.png?raw=true "OBS Studio Website")
 
-![_INSERT warning](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/warning.png?raw=true "OBS Studio Website"){: style="float: left" }
+![_INSERT warning](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/caution.png?raw=true "OBS Studio Website"){: style="float: left" }
 
 **WARNING**: You should click the transition button after you change on the left screen.
 
