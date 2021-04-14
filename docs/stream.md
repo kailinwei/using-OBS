@@ -131,7 +131,7 @@ You can see the details about the **Scene** in [Studio mode](https://kailinwei.g
 
 **8.** Click the **Transition** button after you set up your streaming screen.
 
-<em>**Note**: The **left screen** is the screen you can edit and the **right screen** is the one that will show on streaming. </em>
+<em>**Note**: The left screen is the screen you can edit and the right screen is the one that will show on streaming. </em>
 
 ![_INSERT IMAGE2.2.8_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task2.2.8.png?raw=true "Click Transition")
 
