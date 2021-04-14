@@ -23,6 +23,12 @@ This guide was created by Mai, Hailey and Kailin from COMM 2116. At the early st
 
 Due to the school closure, we used Discord as our main communication channel to hold meetings. We valued communication importantly in this project, so we kept updating with our progress and discussed the problem we encountered together.
 
+## Language
+
+To increase readability and formatting, We chose *[Markdown](https://www.markdownguide.org)* language as a styling aid. Markdown is a language that has a plain text format and it can be converted into HTML.  You can use markdown with not only simple text editors like Notepad on Windows and TextEdit on macOS but also code editor like Visual Studio. 
+
+Also, markdown is lightweight meaning anyone can learn this and doesn't take much time to learn this. Markdown has a simple structure, so you can use it fast and easily to catch errors.
+
 ## Structure
 
 To build a complete user guide in limited time, this documentation was built upon [just-the-docs](https://github.com/pmarsceill/just-the-docs) which contains Jekyll theme with built-in serach function. This documentation gave us framework of the document and we were able to provide detailed instructions. 
