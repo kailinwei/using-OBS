@@ -139,7 +139,7 @@ If you have a trouble with **Audio Output Capture**, Please check out *[Trouble 
 **WARNING**: You should click the transition button after you change on the left screen.
 
 <br />
-
+<br />
 
 **9.** Click the **Start Streaming** button to start your streaming.
 
