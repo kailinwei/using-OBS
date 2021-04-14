@@ -36,3 +36,17 @@ To follow these introduction, you will need:
 * Internet connection
 * Audio Output Device
 
+## Typographical Conventions ##. 
+
+| **Covention    |**Typeface**  |**Examples** |
+|:---:|:---:|:---:|
+|**Bold and italic for note**|[**_Note_**]|**_Note_**|
+|**Bold for buttons**|[**Button**]	|**Next**|
+|**Bold and uppercase for warning**|[[**UPPERCASE**]|**WARNING**|
+
+<br />
+
+![_INSERT warning](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/caution.png?raw=true "Warning"){: style="float: left" }
+>> **Note**: This is a note icon which indicates please pay attention to the following.
+
+
