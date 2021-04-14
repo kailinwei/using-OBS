@@ -38,7 +38,7 @@ To follow these introduction, you will need:
 
 ## Typographical Conventions ##. 
 
-| **Covention    |**Typeface**  |**Examples** |
+| **Covention**    |**Typeface**  |**Examples** |
 |:---:|:---:|:---:|
 |**Bold and italic for note**|[**_Note_**]|**_Note_**|
 |**Bold for buttons**|[**Button**]	|**Next**|
