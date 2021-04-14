@@ -37,10 +37,11 @@ Now that you finished the basic setup of OBS studio, you can start to stream you
 * **Youtube**
 
     You should have an account and verify your phone number, If you did not when you make your account.
-    
+
+![_INSERT IMAGE2.1.5_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task2.1.5.png?raw=true "OBS Studio Website") 
+
 <em>**Note**: If you get a verification with your number at this step, You can use streaming service after 24 hours following the YouTube streaming rule.</em>
 
-_INSERT IMAGE2.1.5_
 
 **4.** Click the **Get Stream Key** to get your stream key that connects to the streaming site and OBS studio. 
 When you click the **Get Stream Key** button, you will be directed to the streaming website. 
@@ -112,12 +113,12 @@ The short explanation about each function is in the below table:
 
 |      |**Explanation**  |
 |:----:|:-----------------:|
-|**Audio Input Capture**|Add audio sounds with a device that attaches to a computer such as a microphone |
+|**Audio Input Capture**|Add audio sounds with a device that send audio signals to a computer such as a microphone |
 |**Audio Output Capture**|Add audio sounds with a device that attaches to a computer such as a speaker|
 |**Browser**|Show a webpage from your browser tab |
 |**Color Source**|Add a color block as your background on the screen|
 |**Display Capture**| Show everything that is on our computer screen |  
-|**Image**| Show an image file in your computer|
+|**Image**| Show an image file stored in your computer|
 |**Media Source**|Steam a Media file such as video|    
 |**Scene**| Add another scene on your activated scene|  
 |**Syphon Client**|Show a game screen you are playing |  
