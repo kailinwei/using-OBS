@@ -11,7 +11,7 @@ In this step, I will demonstrate how to set up and start recording your screens.
 
 ### Task 3.1 Recording Set Up 
 
-**1.** Click **Tools** on the menu bar on the top and select "Auto-Configuration Wizard". 
+**1.** Click **Tools** on the menu bar on the top and select **Auto-Configuration Wizard**. 
 \
 This will open "Auto-Configuration Wizard" setting.
 
@@ -37,7 +37,7 @@ This will help us to have the best setting for recording in a very simple way.
 \
 This will help us to add screens, images, and webcams, etc..
 
-<em>Give permission to OBS Studio on some of the privacy settings if they ask.</em>
+<em>**Note:** Give permission to OBS Studio on some of the privacy settings if they ask.</em>
 
 ![_INSERT IMAGE3.2.1_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task3.2.1.png?raw=true "Add Source") 
 
@@ -45,17 +45,17 @@ This will help us to add screens, images, and webcams, etc..
 
 ![_INSERT IMAGE3.2.2_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task3.2.2.png?raw=true "Add Screen") 
 
-**3.** Click **Create new** with the name you selected. Click **OK** to go to the next setting. 
+**3.** Click "Create new" with the name you selected. Click **OK** to go to the next setting. 
 
 ![_INSERT IMAGE3.2.3_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task3.2.3.png?raw=true "Create New") 
 
-**4.** Select "0" for **Display** and "None" for **Crop** and click **OK**. 
+**4.** Select 0 for "Display" and None for "Crop" and click **OK**. 
 \
 In here, we stick with basic settings so we do not need to change anything. 
 
 ![_INSERT IMAGE3.2.4_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task3.2.4.png?raw=true "Properties") 
 
-**5.** Click **Settings** on the right bottom corner and select **Video**, this will open video settings. Select your preferred number for **Base (Canvas) Resolution** and **Output (Scaled) Resolution**. Here, I selected "1440x900". Click **OK** after you are satisfied with the resolution number. 
+**5.** Click **Settings** on the right bottom corner and select **Video**, this will open video settings. Select your preferred number for "Base (Canvas) Resolution" and "Output (Scaled) Resolution". Here, I selected "1440x900". Click **OK** after you are satisfied with the resolution number. 
 
 ![_INSERT IMAGE3.2.5_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task3.2.5.png?raw=true "Video Setting") 
 
@@ -77,12 +77,12 @@ This will start recording the screens you selected.
 
 ![_INSERT IMAGE3.3.1_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task3.3.1.png?raw=true "Start Recording") 
 
-**2.** Click double vertical line icon on the right side of **Stop Recording** to pause the recordings. Click **Stop Recording** to complete the recording. 
+**2.** Click **double vertical line** icon on the right side of "Stop Recording" to pause the recordings. Click **Stop Recording** to complete the recording. 
 
 ![_INSERT IMAGE3.3.2_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task3.3.2.png?raw=true "Stop Recording") 
 
 
-**3.** Click **File** on the menu bar on the top and select "Show Recordings". 
+**3.** Click **File** on the menu bar on the top and select **Show Recordings**. 
 \
 This will show the location of the recorded file. 
 
@@ -96,11 +96,11 @@ This will show the location of the recorded file.
 
 ### Task 3.4 Converting Video Format for Uploading
 
-**1.** Click **File** on the menu bar on the top and select "Remux Recordings". 
+**1.** Click **File** on the menu bar on the top and select **Remux Recordings**. 
 \
 This will help us to convert the default mkv file to an mp4 file. The reason for this file conversion is that many editing software or  YouTube won't take mkv or flv files by default so we need to convert them to another format such as mp4. 
 
-<em>We recommend you to use either "mkv (default)" or "flv" as recording format. This is because they are crash-proof so you won't lose all recorded data even OBS crashes. </em>
+<em>**Note:** We recommend you to use either "mkv (default)" or "flv" as recording format. This is because they are crash-proof so you won't lose all recorded data even OBS crashes. </em>
 
 ![_INSERT IMAGE3.4.1_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task3.4.1.png?raw=true "Remux Recordings") 
 
