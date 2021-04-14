@@ -58,4 +58,4 @@ You can adjust the time it takes from **Fade to Black** by selecting the drop do
 Or, you can manually drag the bar below the the **Fade to Black** to adjust the time.
 ![_image2j_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task2j.png?raw=true "Drag the bar")
 
-Now you have the basic knowledge about the studio mode.You can play around with different features to get familiar with it. If you would like to learn a more advanced feature of adding captions to the video, please refer to the [next chapter](https://github.com/kailinwei/using-OBS/blob/gh-pages/docs/caption.md?raw=true "Adding Caption chapter")
+Now you have the basic knowledge about the studio mode.You can play around with different features to get familiar with it. If you would like to learn a more advanced feature of adding captions to the video, please refer to the [next chapter](https://github.com/kailinwei/using-OBS/blob/gh-pages/docs/caption.md?raw=true "Adding Caption chapter"). 
