@@ -10,17 +10,17 @@ When you are live-streaming or uploading recorded videos to YouTube, captions/su
 
 ### Task 5.1 Setting Web Captioner ##
 
-**1.** Go to [Web Captioner website](https://webcaptioner.com/captioner). Click three dots icon and select **Sign in**. 
+**1.** Go to [Web Captioner website](https://webcaptioner.com/captioner). Click **three dots** icon and select **Sign in**. 
 
 ![_INSERT IMAGE5.1.1_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task5.1.1.png?raw=true "Click Sign In") 
 
 **2.** Select any sign-in option you prefer to sign in. This will help us to save the settings in our account. 
 
-**3.** Click three dots icon and select **Settings**. 
+**3.** Click **three dots** icon and select **Settings**. 
 
 ![_INSERT IMAGE5.1.3_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task5.1.3.png?raw=true "Click Settings") 
 
-**4.** Select **Appearance** setting on the left side and scroll down to **Background** section. 
+**4.** Select **Appearance** setting on the left side and scroll down to "Background" section. 
 \
 Select **RGB (27, 233, 12)** (Green) as "Background Color". Click **x** icon to save and close settings.
 
@@ -30,7 +30,7 @@ Select **RGB (27, 233, 12)** (Green) as "Background Color". Click **x** icon to 
 
 ![_INSERT IMAGE5.1.5_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task5.1.5.png?raw=true "Select New Window") 
 
-**6.** Click three dots icon and select middle blue icon **New Window**. This will open a new window with only captions. 
+**6.** Click **three dots** icon and select middle blue icon **New Window**. This will open a new window with only captions. 
 
 ![_INSERT IMAGE5.1.6_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task5.1.6.png?raw=true "Click +") 
 
@@ -44,15 +44,15 @@ Select **RGB (27, 233, 12)** (Green) as "Background Color". Click **x** icon to 
 
 ![_INSERT IMAGE5.2.2_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task5.2.2.png?raw=true "Click Window Capture")
 
-**3.** Select **Create new** and name it to create a new window capture. Click **OK** to proceed. 
+**3.** Select "Create new" and name it to create a new window capture. Click **OK** to proceed. 
 
 ![_INSERT IMAGE5.2.3_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task5.2.3.png?raw=true "Create New")
 
-**4.** Click arrow icon on the right side of "Window" to get a drop-down menu.
+**4.** Click **arrow** icon on the right side of "Window" to get a drop-down menu.
 
 ![_INSERT IMAGE5.2.4_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task5.2.4.png?raw=true "Clcik Arrow")
 
-**5.** Select "[Google Chrome] Captions (Windowed)". This will select which window we want to display. 
+**5.** Select **[Google Chrome] Captions (Windowed)**. This will select which window we want to display. 
 
 ![_INSERT IMAGE5.2.5_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task5.2.5.png?raw=true "Select Google Chrome")
 
@@ -82,13 +82,13 @@ Select **RGB (27, 233, 12)** (Green) as "Background Color". Click **x** icon to 
 
 ![_INSERT IMAGE5.3.5_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task5.3.5.png?raw=true "Name the filter")
 
-**6.** Select **Green** as its "Key Color Type" and make sure the background of caption is transparent. Click **Close** to save this filter. 
+**6.** Select "Green" as its "Key Color Type" and make sure the background of caption is transparent. Click **Close** to save this filter. 
 
 ![_INSERT IMAGE5.3.6_](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/task5.3.6.png?raw=true "Select Green and close")
 
 ![_INSERT warning](https://github.com/kailinwei/using-OBS/blob/gh-pages/assets/images/caution.png?raw=true "Warning"){: style="float: left" }
 
-**WARNING**:  You should select **Green** color. Other colour doesn't work in this step. You can see the details about the Choma key is in [Glossary](https://kailinwei.github.io/using-OBS/docs/glossary/).
+**WARNING**:  You should select "Green" color. Other colour doesn't work in this step. You can see the details about the Choma key is in [Glossary](https://kailinwei.github.io/using-OBS/docs/glossary/).
 
 <br />
 
