@@ -88,6 +88,7 @@ Select **RGB (27, 233, 12)** (Green) as "Background Color". Click **x** icon to 
 
 **7.** Check the location and appearance of caption is right. 
 
+Now you know how to add live captions for your videos or live stream and make the caption transparent to match the background.
 
 # Conclusion #
 
