@@ -1,4 +1,4 @@
-# How to use OBS :warning: Note
+# How to use OBS 
 
 
 ## Overview of Open Broadcast Software (OBS) Studio Guide ##
